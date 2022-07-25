@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/golden_pickaxe"
   },
 	"overrides": [
-		{ "predicate": {"custom_model_data":1000}, "model": "item/equipment/parachute"},
-		{ "predicate": {"custom_model_data":2000}, "model": "item/vehicle/ibs"}
+		{ "predicate": {"custom_model_data":1000}, "model": "custom/equipment/parachute"},
+		{ "predicate": {"custom_model_data":2000}, "model": "custom/vehicle/ibs"}
 	]
 }
