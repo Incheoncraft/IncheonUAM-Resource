@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_pickaxe"
+	},
+	"overrides": [
+
+		{ "predicate": {"custom_model_data":1}, "model": "custom/vehicle/uaz_1"},
+		{ "predicate": {"custom_model_data":2}, "model": "custom/test_model"}
+	]
+}

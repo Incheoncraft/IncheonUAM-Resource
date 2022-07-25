@@ -5,5 +5,5 @@
 "music.game": {"replace":true, "sounds":[]},
 "music.gaunder_waterme": {"replace":true, "sounds":[]},
 
-`
+"custom.weapon.test.shoot_1": {"sounds": [{"name":"custom/sfx/weapon/test/shoot_1"}]}
 }
