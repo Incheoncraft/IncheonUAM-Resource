@@ -1,0 +1,6 @@
+{
+	"parent": "props/ad/ad_banner",
+	"textures": {
+		"0": "item/ads/3"
+	}
+}

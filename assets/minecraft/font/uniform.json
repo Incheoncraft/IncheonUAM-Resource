@@ -1,0 +1,165 @@
+{
+	"providers": [
+
+        {"type":"bitmap","file":"minecraft:font/ui/left/background.png" ,"ascent":-23,"height":20,"chars":["\uE000"]},
+        {"type":"bitmap","file":"minecraft:font/ui/left/has_drone.png"  ,"ascent":-27,"height":5,"chars":["\uE001"]},
+        {"type":"bitmap","file":"minecraft:font/ui/left/has_aidkit.png" ,"ascent":-27,"height":3,"chars":["\uE002"]},
+        {"type":"bitmap","file":"minecraft:font/ui/left/has_extmag.png" ,"ascent":-27,"height":4,"chars":["\uE003"]},
+        {"type":"bitmap","file":"minecraft:font/ui/left/health.png"     ,"ascent":-35,"height":6,"chars":[
+            "\uE100\uE101\uE102\uE103\uE104\uE105\uE106\uE107\uE108\uE109\uE10A\uE10B\uE10C\uE10D\uE10E\uE10F\uE110\uE111\uE112\uE113\uE114\uE115\uE116\uE117\uE118\uE119\uE11A\uE11B\uE11C\uE11D\uE11E\uE11F\uE120\uE121\uE122\uE123\uE124\uE125\uE126\uE127\uE128\uE129\uE12A\uE12B\uE12C\uE12D\uE12E\uE12F\uE130\uE131\uE132\uE133\uE134\uE135\uE136\uE137\uE138\uE139\uE13A\uE13B\uE13C\uE13D\uE13E\uE13F\uE140\uE141\uE142"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/left/stamina.png"    ,"ascent":-31,"height":3,"chars":[
+            "\uE200\uE201\uE202\uE203\uE204\uE205\uE206\uE207\uE208\uE209\uE20A\uE20B\uE20C\uE20D\uE20E\uE20F\uE210\uE211\uE212\uE213\uE214\uE215\uE216\uE217\uE218\uE219\uE21A\uE21B\uE21C\uE21D\uE21E\uE21F\uE220\uE221\uE222\uE223\uE224\uE225\uE226\uE227\uE228\uE229\uE22A\uE22B\uE22C\uE22D\uE22E\uE22F\uE230\uE231\uE232\uE233\uE234\uE235\uE236\uE237\uE238\uE239\uE23A\uE23B\uE23C\uE23D"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/face.png" ,"ascent":-27,"height":8,"chars":[
+            "\uE400\uE401\uE402",
+            "\uE403\uE404\u0000"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/face.png" ,"ascent":8,"height":8,"chars":[
+            "\uE410\uE411\uE412",
+            "\uE413\uE414\u0000"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/face_adjusted.png" ,"ascent":7,"height":9,"chars":[
+            "\uE420\uE421\uE422",
+            "\uE423\uE424\u0000"
+        ]},
+
+        {"type":"bitmap","file":"minecraft:font/ui/right/background.png"  ,"ascent":-23,"height":20,"chars":["\uE800"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weaponlayer.png" ,"ascent":-23,"height":20,"chars":["\uE801"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/single.png"      ,"ascent":-37,"height": 2,"chars":["\uE802"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/auto.png"        ,"ascent":-37,"height": 2,"chars":["\uE803"]},
+        
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ar.png"      ,"ascent":-23,"height":20,"chars":["\uE900"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/dmr.png"     ,"ascent":-23,"height":20,"chars":["\uE901"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/sg.png"      ,"ascent":-23,"height":20,"chars":["\uE902"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/pistol.png"  ,"ascent":-23,"height":20,"chars":["\uE903"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/revolver.png","ascent":-23,"height":20,"chars":["\uE904"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/stun_gun.png","ascent":-23,"height":20,"chars":["\uE905"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ult_mg.png"  ,"ascent":-23,"height":20,"chars":["\uE906"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ult_sr.png"  ,"ascent":-23,"height":20,"chars":["\uE907"]},
+
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ar_ex.png"      ,"ascent":-23,"height":20,"chars":["\uE910"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/dmr_ex.png"     ,"ascent":-23,"height":20,"chars":["\uE911"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/sg_ex.png"      ,"ascent":-23,"height":20,"chars":["\uE912"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/pistol_ex.png"  ,"ascent":-23,"height":20,"chars":["\uE913"]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/revolver_ex.png","ascent":-23,"height":20,"chars":["\uE914"]},
+
+        {"type":"bitmap","file":"minecraft:font/ui/right/number_big.png"  ,"ascent":-28,"height": 6,"chars":[
+            "\uEA00\uEA01\uEA02\uEA03\uEA04",
+            "\uEA05\uEA06\uEA07\uEA08\uEA09"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/number_small.png","ascent":-35,"height": 4,"chars":[
+            "\uEA10\uEA11\uEA12\uEA13\uEA14",
+            "\uEA15\uEA16\uEA17\uEA18\uEA19"
+        ]},
+        {"type":"bitmap","file":"minecraft:font/ui/right/weaponlayer.png" ,"ascent":-23,"height":20,"chars":[
+            "\uEB00\uEB01\uEB02\uEB03\uEB04\uEB05\uEB06\uEB07\uEB08\uEB09\uEB0A\uEB0B\uEB0C\uEB0D\uEB0E\uEB0F\uEB10\uEB11\uEB12\uEB13\uEB14\uEB15\uEB16\uEB17\uEB18\uEB19\uEB1A\uEB1B\uEB1C\uEB1D\uEB1E\uEB1F\uEB20\uEB21\uEB22\uEB23\uEB24\uEB25\uEB26\uEB27\uEB28\uEB29\uEB2A\uEB2B\uEB2C\uEB2D\uEB2E\uEB2F\uEB30\uEB31\uEB32\uEB33\uEB34\uEB35\uEB36\uEB37\uEB38\uEB39\uEB3A\uEB3B\uEB3C\uEB3D\uEB3E\uEB3F\uEB40\uEB41\uEB42\uEB43\uEB44\uEB45\uEB46\uEB47\uEB48\uEB49\uEB4A\uEB4B\uEB4C\uEB4D\uEB4E\uEB4F\uEB50"
+        ]},
+
+        {"type":"bitmap","file":"minecraft:font/ui/sidebar/background.png","ascent":17,"height":19,"chars":["\uEC00"]},
+        {"type":"bitmap","file":"minecraft:font/ui/sidebar/overlay.png"   ,"ascent":17,"height":19,"chars":["\uEC01"]},
+        {"type":"bitmap","file":"minecraft:font/ui/sidebar/health.png"    ,"ascent":7,"height":9,"chars":[
+            "\uED00\uED01\uED02\uED03\uED04\uED05\uED06\uED07\uED08\uED09\uED0A\uED0B\uED0C\uED0D\uED0E\uED0F\uED10\uED11\uED12\uED13\uED14\uED15\uED16\uED17\uED18\uED19\uED1A\uED1B\uED1C\uED1D\uED1E\uED1F\uED20\uED21\uED22\uED23\uED24\uED25\uED26\uED27\uED28\uED29\uED2A\uED2B\uED2C\uED2D\uED2E\uED2F\uED30\uED31\uED32\uED33\uED34\uED35\uED36\uED37\uED38\uED39\uED3A\uED3B\uED3C\uED3D\uED3E\uED3F\uED40\uED41\uED42\uED43\uED44\uED45\uED46\uED47\uED48\uED49\uED4A\uED4B\uED4C\uED4D\uED4E\uED4F\uED50\uED51\uED52\uED53\uED54\uED55\uED56\uED57\uED58\uED59\uED5A\uED5B\uED5C\uED5D\uED5E\uED5F\uED60\uED61\uED62"
+        ]},
+
+                
+        {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":2,"height":8,"chars":["\uF000"]},
+        {"type":"bitmap","file":"minecraft:font/shift.png","ascent":7,"height":8,"chars":["㈓"]},
+        {"type":"bitmap","file":"minecraft:font/ctrl.png","ascent":7,"height":8,"chars":["㈔"]},
+        
+        {"type":"bitmap","file":"minecraft:font/censored_bar.png","ascent":7,"height":8,"chars":["\uF001"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_00.png","ascent":16,"height":16,"chars":["\uF002"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_01.png","ascent":16,"height":16,"chars":["\uF003"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_02.png","ascent":16,"height":16,"chars":["\uF004"]},
+
+        {"type":"bitmap","file":"minecraft:font/lslogo.png","ascent":15,"height":64,"chars":["\uF005"]},
+
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_01_big_0.png","ascent":32,"height":32,"chars":["\uF006"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_01_big_1.png","ascent":32,"height":32,"chars":["\uF007"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_01_big_2.png","ascent":32,"height":32,"chars":["\uF008"]},
+        {"type":"bitmap","file":"minecraft:font/sponsorlogo_01_big_3.png","ascent":32,"height":32,"chars":["\uF009"]},
+
+        {"type":"bitmap","file":"minecraft:font/ls_logo_mid_0.png","ascent":15,"height":36,"chars":["\uF00A"]},
+        {"type":"bitmap","file":"minecraft:font/ls_logo_mid_1.png","ascent":15,"height":36,"chars":["\uF00B"]},
+
+        {"type":"bitmap","file":"minecraft:gui/container/custom/armory.png"       ,"ascent":13,"height":96,"chars":["\uF100"]},
+        {"type":"bitmap","file":"minecraft:gui/container/custom/select_branch.png","ascent":13,"height":96,"chars":["\uF101"]},
+        {"type":"bitmap","file":"minecraft:gui/container/custom/select_floor.png" ,"ascent":13,"height":96,"chars":["\uF102"]},
+
+        {"type":"bitmap","file":"minecraft:font/pad.png"  ,"ascent":11,"height":16,"chars":["\uF200"]},
+        {"type":"bitmap","file":"minecraft:font/cctv.png" ,"ascent":11,"height":16,"chars":["\uF201"]},
+        {"type":"bitmap","file":"minecraft:font/drone.png","ascent":11,"height":16,"chars":["\uF202"]},
+
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-2,    "chars":["\uF800"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-3,    "chars":["\uF801"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-4,    "chars":["\uF802"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-5,    "chars":["\uF803"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-6,    "chars":["\uF804"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-7,    "chars":["\uF805"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-8,    "chars":["\uF806"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-9,    "chars":["\uF807"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-10,   "chars":["\uF808"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-18,   "chars":["\uF809"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-34,   "chars":["\uF80A"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-66,   "chars":["\uF80B"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-130,  "chars":["\uF80C"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-258,  "chars":["\uF80D"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-514,  "chars":["\uF80E"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-1026, "chars":["\uF80F"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-65536,"height":-32770,"chars":["\uF800"]},
+
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":0,     "chars":["\uF821"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":1,     "chars":["\uF822"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":2,     "chars":["\uF823"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":3,     "chars":["\uF824"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":4,     "chars":["\uF825"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":5,     "chars":["\uF826"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":6,     "chars":["\uF827"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":7,     "chars":["\uF828"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":15,    "chars":["\uF829"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":31,    "chars":["\uF82A"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":63,    "chars":["\uF82B"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":127,   "chars":["\uF82C"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":255,   "chars":["\uF82D"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":511,   "chars":["\uF82E"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":1023,  "chars":["\uF82F"]},
+        {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-65536,"height":32767, "chars":["\uF820"]},
+        
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-3,    "chars":["\uF811"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-4,    "chars":["\uF812"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-5,    "chars":["\uF813"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-6,    "chars":["\uF814"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-7,    "chars":["\uF815"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-8,    "chars":["\uF816"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-9,    "chars":["\uF817"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-10,   "chars":["\uF818"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-18,   "chars":["\uF819"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-34,   "chars":["\uF81A"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-66,   "chars":["\uF81B"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-130,  "chars":["\uF81C"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-258,  "chars":["\uF81D"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-514,  "chars":["\uF81E"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":-1026, "chars":["\uF81F"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -65536,"height":-32770,"chars":["\uF810"]},
+
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":0,     "chars":["\uF831"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":1,     "chars":["\uF832"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":2,     "chars":["\uF833"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":3,     "chars":["\uF834"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":4,     "chars":["\uF835"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":5,     "chars":["\uF836"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":6,     "chars":["\uF837"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":7,     "chars":["\uF838"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":15,    "chars":["\uF839"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":31,    "chars":["\uF83A"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":63,    "chars":["\uF83B"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":127,   "chars":["\uF83C"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":255,   "chars":["\uF83D"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":511,   "chars":["\uF83E"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":1023,  "chars":["\uF83F"]},
+        {"type":"bitmap","file":"space:font/space_split.png","ascent": -65536,"height":32767, "chars":["\uF830"]},
+        
+        {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
+	]
+}
+

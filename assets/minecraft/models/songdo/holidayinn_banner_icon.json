@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "props/holidayinn_logo",
+		"1": "props/holidayinn_banner_icon",
+		"particle": "props/holidayinn_logo"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 7.5],
+			"to": [24, 29, 16.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 0.875, 16, 16], "texture": "#0"},
+				"east": {"uv": [4, 4, 5.125, 8], "texture": "#1"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#1"},
+				"west": {"uv": [4, 0, 5.125, 4], "texture": "#1"},
+				"up": {"uv": [9.125, 6.25, 5.125, 5.125], "texture": "#1"},
+				"down": {"uv": [9.125, 0, 5.125, 1.125], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, 2, -0.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [26, 156, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.3, 0.3, 0.3]
+		}
+	}
+}

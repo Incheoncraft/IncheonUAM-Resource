@@ -1,0 +1,36 @@
+{
+	"parent":"item/weapon/main/dmr/base",
+
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.25, 5, -7.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 5, -7.25],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [33, -1, -9],
+			"translation": [0.75, 30.25, -16],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"firstperson_lefthand": {
+			"translation": [2.75, 16, -20],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"ground": {
+			"translation": [0, 10.25, -8.75]
+		},
+		"gui": {
+			"rotation": [15, 146, 0],
+			"translation": [-1.25, 2.75, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"rotation": [-1, 0, 0],
+			"translation": [0, 41, 0]
+		}
+	}
+
+}
