@@ -25,17 +25,5 @@
             "scale": [ 0.68, 0.68, 0.68 ]
         }
     },
-    "overrides": [
-		{"predicate": {"charged": 1, "custom_model_data":100000}, "model": "item/weapon/main/ar/base"},
-        {"predicate": {"charged": 1, "custom_model_data":200000}, "model": "item/weapon/main/dmr/base"},
-        {"predicate": {"charged": 1, "custom_model_data":300000}, "model": "item/weapon/main/sg/base"},
-        {"predicate": {"charged": 1, "custom_model_data":400000}, "model": "item/weapon/ult/lmg/base"},
-      
-        
-    
-		{"predicate": {"charged": 1, "custom_model_data":600000}, "model": "item/weapon/sub/g27/base"},
-        {"predicate": {"charged": 1, "custom_model_data":700000}, "model": "item/weapon/sub/rev/base"},
-        {"predicate": {"charged": 1, "custom_model_data":800000}, "model": "item/weapon/ult/sr/base"},
-        {"predicate": {"charged": 1, "custom_model_data":900000}, "model": "item/weapon/melee/base"}
-    ]
+    "overrides": []
 }

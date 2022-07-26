@@ -1,22 +1,18 @@
 {
-  "parent": "minecraft:custom/handheld",
+  "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:custom/stone_pickaxe"
+    "layer0": "minecraft:item/stone_pickaxe"
   },
 
 "overrides": [
-  { "predicate": {"custom_model_data":1}, "model": "custom/prop/helmet_1"},
+  
   { "predicate": {"custom_model_data":2}, "model": "custom/prop/ani_rusted_papers"},
   { "predicate": {"custom_model_data":3}, "model": "custom/prop/c-5_hatch"},
   { "predicate": {"custom_model_data":4}, "model": "custom/prop/iron_wall"},
   { "predicate": {"custom_model_data":5}, "model": "custom/prop/iron_wall_edge"},
-  { "predicate": {"custom_model_data":6}, "model": "custom/prop/stickbomb"},
-  { "predicate": {"custom_model_data":7}, "model": "custom/prop/helmet_2"},
-  { "predicate": {"custom_model_data":8}, "model": "custom/prop/helmet_3"},
-  { "predicate": {"custom_model_data":9}, "model": "custom/prop/helmet_4"},
-  { "predicate": {"custom_model_data":10}, "model": "custom/prop/helmet_5"},
-  { "predicate": {"custom_model_data":11}, "model": "custom/vehicle/drone_idle"},
-  { "predicate": {"custom_model_data":12}, "model": "custom/vehicle/drone_animated"},
+  
+  
+
   { "predicate": {"custom_model_data":15}, "model": "custom/prop/controlpad"},
   { "predicate": {"custom_model_data":16}, "model": "custom/prop/rusted_paper01"},
   { "predicate": {"custom_model_data":17}, "model": "custom/prop/prop_rusted_bed"},
@@ -52,9 +48,8 @@
   { "predicate": {"custom_model_data":47}, "model": "custom/prop/prop_pc"},
   { "predicate": {"custom_model_data":48}, "model": "custom/prop/prop_tv"},
   { "predicate": {"custom_model_data":49}, "model": "custom/prop/prop_tv_hanging"},
-  { "predicate": {"custom_model_data":50}, "model": "custom/prop/vaccine_shot"},
-  { "predicate": {"custom_model_data":51}, "model": "custom/prop/vaccine_case"},
-  { "predicate": {"custom_model_data":52}, "model": "custom/prop/vaccine_case_filled"},
+  
+  
   { "predicate": {"custom_model_data":53}, "model": "custom/prop/prop_tv_hanging_modern"},
   { "predicate": {"custom_model_data":54}, "model": "custom/prop/lamp"},
   { "predicate": {"custom_model_data":55}, "model": "custom/prop/aa"},
@@ -71,7 +66,7 @@
   { "predicate": {"custom_model_data":66}, "model": "custom/prop/aidkit"},
   { "predicate": {"custom_model_data":67}, "model": "custom/prop/painting"},
   { "predicate": {"custom_model_data":68}, "model": "custom/props/ad/ad"},
-  { "predicate": {"custom_model_data":69}, "model": "custom/props/ad/ad_banner"},
+  
   { "predicate": {"custom_model_data":70}, "model": "custom/props/ad/ad_banner01"},
   { "predicate": {"custom_model_data":71}, "model": "custom/props/ad/ad_banner02"},
   { "predicate": {"custom_model_data":72}, "model": "custom/props/ad/ad_banner03"},
