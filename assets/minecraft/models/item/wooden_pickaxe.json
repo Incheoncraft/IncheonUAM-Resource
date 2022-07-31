@@ -5,7 +5,9 @@
 	},
 	"overrides": [
 
-		{ "predicate": {"custom_model_data":1}, "model": "custom/vehicle/uaz_1"},
-		{ "predicate": {"custom_model_data":2}, "model": "custom/test_model"}
+		{ "predicate": {"custom_model_data":110}, "model": "custom/vehicle/uaz_1"},
+		
+		{ "predicate": {"custom_model_data":350}, "model": "custom/vehicle/uam_5_body"},
+		{ "predicate": {"custom_model_data":351}, "model": "custom/vehicle/uam_5_weapon"}
 	]
 }
