@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/call",
-		"particle": "props/call"
+		"0": "custom/props/call",
+		"particle": "custom/props/call"
 	},
 	"elements": [
 		{

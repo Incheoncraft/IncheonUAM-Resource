@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "imgs/logo",
-		"1": "props/logo_body",
+		"1": "custom/props/logo_body",
 		"2": "imgs/micezone_logo_lounge_korean",
 		"3": "imgs/micezone_logo_lounge",
 		"particle": "imgs/logo"

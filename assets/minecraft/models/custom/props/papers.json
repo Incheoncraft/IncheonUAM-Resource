@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "props/papers",
-		"2": "props/logo",
-		"particle": "props/papers"
+		"0": "custom/props/papers",
+		"2": "custom/props/logo",
+		"particle": "custom/props/papers"
 	},
 	"elements": [
 		{

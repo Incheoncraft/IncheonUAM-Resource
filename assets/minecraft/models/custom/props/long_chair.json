@@ -2,7 +2,7 @@
 	"credit": "Made with Kimlikeit",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "props/long_chair"
+		"1": "custom/props/long_chair"
 	},
 	"elements": [
 		{

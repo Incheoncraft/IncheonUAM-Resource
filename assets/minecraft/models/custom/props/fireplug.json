@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/fireplug",
-		"1": "props/fireplug_acc",
-		"particle": "props/fireplug"
+		"0": "custom/props/fireplug",
+		"1": "custom/props/fireplug_acc",
+		"particle": "custom/props/fireplug"
 	},
 	"elements": [
 		{

@@ -3,10 +3,10 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "imgs/flowerpot",
-		"1": "props/double_plant_sunflower_bottom",
-		"2": "props/double_plant_sunflower_front",
-		"3": "props/double_plant_sunflower_top",
-		"4": "props/tallgrass",
+		"1": "custom/props/double_plant_sunflower_bottom",
+		"2": "custom/props/double_plant_sunflower_front",
+		"3": "custom/props/double_plant_sunflower_top",
+		"4": "custom/props/tallgrass",
 		"particle": "imgs/flowerpot"
 	},
 	"elements": [

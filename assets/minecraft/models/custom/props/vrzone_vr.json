@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "props/micezone_enterence_logo",
-		"3": "props/micezone_vrgame_acc",
-		"4": "props/micezone_game_screen",
-		"6": "props/vrzone_vr",
+		"2": "custom/props/micezone_enterence_logo",
+		"3": "custom/props/micezone_vrgame_acc",
+		"4": "custom/props/micezone_game_screen",
+		"6": "custom/props/vrzone_vr",
 		"7": "imgs/vr_vod",
-		"particle": "props/micezone_game_screen"
+		"particle": "custom/props/micezone_game_screen"
 	},
 	"elements": [
 		{

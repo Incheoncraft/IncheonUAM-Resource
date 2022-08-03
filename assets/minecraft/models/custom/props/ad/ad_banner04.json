@@ -1,5 +1,5 @@
 {
-	"parent": "props/ad/ad_banner",
+	"parent": "custom/props/ad/ad_banner",
 	"textures": {
 		"0": "item/ads/5"
 	}

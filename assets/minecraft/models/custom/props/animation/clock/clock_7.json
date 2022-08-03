@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/clock",
-		"1": "props/clock_acc",
-		"particle": "props/clock"
+		"0": "custom/props/clock",
+		"1": "custom/props/clock_acc",
+		"particle": "custom/props/clock"
 	},
 	"elements": [
 		{

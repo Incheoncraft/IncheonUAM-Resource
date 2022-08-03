@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/mis04_pipe",
-		"1": "props/mis04_pipe_acc",
-		"2": "props/water",
-		"particle": "props/mis04_pipe"
+		"0": "custom/props/mis04_pipe",
+		"1": "custom/props/mis04_pipe_acc",
+		"2": "custom/props/water",
+		"particle": "custom/props/mis04_pipe"
 	},
 	"elements": [
 		{

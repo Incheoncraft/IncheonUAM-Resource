@@ -67,12 +67,6 @@
   { "predicate": {"custom_model_data":67}, "model": "custom/prop/painting"},
   { "predicate": {"custom_model_data":68}, "model": "custom/props/ad/ad"},
   
-  { "predicate": {"custom_model_data":70}, "model": "custom/props/ad/ad_banner01"},
-  { "predicate": {"custom_model_data":71}, "model": "custom/props/ad/ad_banner02"},
-  { "predicate": {"custom_model_data":72}, "model": "custom/props/ad/ad_banner03"},
-  { "predicate": {"custom_model_data":73}, "model": "custom/props/ad/ad_banner04"},
-  { "predicate": {"custom_model_data":74}, "model": "custom/props/ad/ad_banner05"},
-  { "predicate": {"custom_model_data":75}, "model": "custom/prop/ad_banner_large"},
   { "predicate": {"custom_model_data":76}, "model": "custom/prop/ad_banner_large_01"},
   { "predicate": {"custom_model_data":77}, "model": "custom/props/ad/ad_2"},
 

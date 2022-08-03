@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "props/mad_curtain",
-		"particle": "props/mad_curtain"
+		"0": "custom/props/mad_curtain",
+		"particle": "custom/props/mad_curtain"
 	},
 	"elements": [
 		{

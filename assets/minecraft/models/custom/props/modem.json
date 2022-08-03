@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "props/modem",
-		"particle": "props/modem"
+		"0": "custom/props/modem",
+		"particle": "custom/props/modem"
 	},
 	"elements": [
 		{
