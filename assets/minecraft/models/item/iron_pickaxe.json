@@ -7,13 +7,11 @@
 "overrides": [
   
   { "predicate": {"custom_model_data":2}, "model": "custom/prop/ani_rusted_papers"},
-  { "predicate": {"custom_model_data":3}, "model": "custom/prop/c-5_hatch"},
   { "predicate": {"custom_model_data":4}, "model": "custom/prop/iron_wall"},
   { "predicate": {"custom_model_data":5}, "model": "custom/prop/iron_wall_edge"},
   
   
 
-  { "predicate": {"custom_model_data":15}, "model": "custom/prop/controlpad"},
   { "predicate": {"custom_model_data":16}, "model": "custom/prop/rusted_paper01"},
   { "predicate": {"custom_model_data":17}, "model": "custom/prop/prop_rusted_bed"},
   { "predicate": {"custom_model_data":18}, "model": "custom/prop/cctv"},
@@ -52,18 +50,16 @@
   
   { "predicate": {"custom_model_data":53}, "model": "custom/prop/prop_tv_hanging_modern"},
   { "predicate": {"custom_model_data":54}, "model": "custom/prop/lamp"},
-  { "predicate": {"custom_model_data":55}, "model": "custom/prop/aa"},
   { "predicate": {"custom_model_data":56}, "model": "custom/prop/hotel_roomtag"},
   { "predicate": {"custom_model_data":57}, "model": "custom/prop/hotel_16f"},
   { "predicate": {"custom_model_data":58}, "model": "custom/prop/hotel_17f"},
   { "predicate": {"custom_model_data":59}, "model": "custom/prop/hotel_18f"},
-  { "predicate": {"custom_model_data":60}, "model": "custom/prop/barricade_piller"},
+  
   { "predicate": {"custom_model_data":61}, "model": "custom/prop/painting"},
   { "predicate": {"custom_model_data":62}, "model": "custom/prop/hotel_16tag"},
   { "predicate": {"custom_model_data":63}, "model": "custom/prop/hotel_17tag"},
   { "predicate": {"custom_model_data":64}, "model": "custom/prop/hotel_18tag"},
   { "predicate": {"custom_model_data":65}, "model": "custom/prop/busbannertxt"},
-  { "predicate": {"custom_model_data":66}, "model": "custom/prop/aidkit"},
   { "predicate": {"custom_model_data":67}, "model": "custom/prop/painting"},
   { "predicate": {"custom_model_data":68}, "model": "custom/props/ad/ad"},
   
