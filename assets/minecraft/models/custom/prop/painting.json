@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"2": "item/props/painting",
-		"5": "item/props/painting_frame"
+		"2": "custom/props/painting",
+		"5": "custom/props/painting_frame"
 	},
 	"elements": [
 		{
