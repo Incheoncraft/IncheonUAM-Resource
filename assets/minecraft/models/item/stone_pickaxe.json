@@ -4,30 +4,25 @@
 		"layer0": "item/stone_pickaxe"
 	},
 	"overrides": [
-
-		{ "predicate": {"custom_model_data":1000000}, "model": "custom/weapon/ar/test/base"},
-		{ "predicate": {"custom_model_data":1000001}, "model": "custom/weapon/ar/test/empty"},
-		{ "predicate": {"custom_model_data":1000002}, "model": "custom/weapon/ar/test/pulled"},
-		{ "predicate": {"custom_model_data":1000100}, "model": "custom/weapon/ar/test/shoot-00"},
-		{ "predicate": {"custom_model_data":1000200}, "model": "custom/weapon/ar/test/reload-00"},
-		{ "predicate": {"custom_model_data":1000201}, "model": "custom/weapon/ar/test/reload-01"},
-		{ "predicate": {"custom_model_data":1000202}, "model": "custom/weapon/ar/test/reload-02"},
-		{ "predicate": {"custom_model_data":1000203}, "model": "custom/weapon/ar/test/reload-03"},
-		{ "predicate": {"custom_model_data":1000204}, "model": "custom/weapon/ar/test/reload-04"},
-		{ "predicate": {"custom_model_data":1000205}, "model": "custom/weapon/ar/test/reload-05"},
-		{ "predicate": {"custom_model_data":1000206}, "model": "custom/weapon/ar/test/reload-06"},
-		{ "predicate": {"custom_model_data":1000300}, "model": "custom/weapon/ar/test/load-00"},
-		{ "predicate": {"custom_model_data":1000301}, "model": "custom/weapon/ar/test/load-01"},
-		{ "predicate": {"custom_model_data":1000302}, "model": "custom/weapon/ar/test/load-02"},
-		{ "predicate": {"custom_model_data":1000303}, "model": "custom/weapon/ar/test/load-03"},
-		{ "predicate": {"custom_model_data":1001000}, "model": "custom/weapon/ar/test/zoom-00"},
-		{ "predicate": {"custom_model_data":1001001}, "model": "custom/weapon/ar/test/zoom-01"},
-		{ "predicate": {"custom_model_data":1001002}, "model": "custom/weapon/ar/test/zoom-02"},
-		{ "predicate": {"custom_model_data":1001100}, "model": "custom/weapon/ar/test/zoom_shoot-00"},
 		
-		{ "predicate": {"custom_model_data":1100000}, "model": "custom/weapon/rifle/rifle_1/base"},
+		{ "predicate": {"custom_model_data":110000}, "model": "custom/weapon/rifle/rifle_1/base"},
+		{ "predicate": {"custom_model_data":120000}, "model": "custom/weapon/rifle/rifle_2/base"},
+		{ "predicate": {"custom_model_data":130000}, "model": "custom/weapon/rifle/rifle_3/base"},
 
-		{ "predicate": {"custom_model_data":99999999}, "model": "custom/weapon/ar/test/base"}
+		{ "predicate": {"custom_model_data":210000}, "model": "custom/weapon/shotgun/shotgun_1/base"},
+		{ "predicate": {"custom_model_data":220000}, "model": "custom/weapon/shotgun/shotgun_2/base"},
+
+		{ "predicate": {"custom_model_data":310000}, "model": "custom/weapon/sniper/sniper_1/base"},
+		{ "predicate": {"custom_model_data":320000}, "model": "custom/weapon/sniper/sniper_2/base"},
+
+		{ "predicate": {"custom_model_data":410000}, "model": "custom/weapon/sub_pistol/sub_pistol_1/base"},
+		{ "predicate": {"custom_model_data":420000}, "model": "custom/weapon/sub_pistol/sub_pistol_2/base"},
+
+		{ "predicate": {"custom_model_data":510000}, "model": "custom/weapon/sub_revolver/sub_revolver_1/base"},
+
+		{ "predicate": {"custom_model_data":610000}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/base"},
+
+		{ "predicate": {"custom_model_data":99999999}, "model": "custom/weapon/rifle/rifle_1/base"}
 	]
   ,
 	"display": {
