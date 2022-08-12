@@ -5,7 +5,13 @@
 	},
 	"overrides": [
 
-		{ "predicate": {"custom_model_data":110}, "model": "custom/vehicle/uaz_1"},
+		{ "predicate": {"custom_model_data":110}, "model": "custom/vehicle/bike"},
+		{ "predicate": {"custom_model_data":120}, "model": "custom/vehicle/normal_car"},
+		{ "predicate": {"custom_model_data":130}, "model": "custom/vehicle/sports_car"},
+		{ "predicate": {"custom_model_data":140}, "model": "custom/vehicle/offroad_car"},
+
+		{ "predicate": {"custom_model_data":210}, "model": "custom/vehicle/moon_boat"},
+		{ "predicate": {"custom_model_data":220}, "model": "custom/vehicle/tactical_boat"},
 		
 		{ "predicate": {"custom_model_data":350}, "model": "custom/vehicle/uam_5_body"},
 		{ "predicate": {"custom_model_data":351}, "model": "custom/vehicle/uam_5_weapon"},
