@@ -1,8 +1,5 @@
 {
-"textures":{
-"0":"custom/weapon/rifle_1",
-"particle":"custom/weapon/rifle_1"
-},
+"parent":"custom/weapon/rifle/rifle_1/base",
 "texture_size":[128,128],
 "display":{
 "firstperson_righthand":{
