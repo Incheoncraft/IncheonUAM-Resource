@@ -1301,8 +1301,8 @@
 }],
 "display":{
 "firstperson_righthand":{
-"rotation":[0,6,8],
-"translation":[0,11.35,-6]
+"rotation":[-61,6,8],
+"translation":[0,-1.1500000000000004,-6]
 },
 "thirdperson_lefthand":{
 "translation":[0,0,-0.75],
