@@ -15,6 +15,8 @@
 		
 		{ "predicate": {"custom_model_data":350}, "model": "custom/vehicle/uam_5_body"},
 		{ "predicate": {"custom_model_data":351}, "model": "custom/vehicle/uam_5_weapon"},
-		{ "predicate": {"custom_model_data":352}, "model": "custom/vehicle/uam_5_body_stop"}
+		{ "predicate": {"custom_model_data":352}, "model": "custom/vehicle/uam_5_body_stop"},
+
+		{ "predicate": {"custom_model_data":410}, "model": "custom/equipment/parachute"}
 	]
 }
