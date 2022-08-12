@@ -22,6 +22,10 @@
 
 		{ "predicate": {"custom_model_data":610000}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/base"},
 
+		{ "predicate": {"custom_model_data":710000}, "model": "custom/weapon/grenade/grenade_1"},
+		{ "predicate": {"custom_model_data":720000}, "model": "custom/weapon/grenade/grenade_2"},
+		{ "predicate": {"custom_model_data":730000}, "model": "custom/weapon/grenade/grenade_3"},
+
 		{ "predicate": {"custom_model_data":99999999}, "model": "custom/weapon/rifle/rifle_1/base"}
 	]
   ,
