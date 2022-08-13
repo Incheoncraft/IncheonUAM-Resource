@@ -13,6 +13,7 @@
 "custom.sfx.weapon.explode": {"sounds": [{"name":"custom/sfx/weapon/explode"}]},
 "custom.sfx.weapon.shoot.rifle": {"sounds": [{"name":"custom/sfx/weapon/shoot/rifle"}]},
 "custom.sfx.weapon.shoot.sniper": {"sounds": [{"name":"custom/sfx/weapon/shoot/sniper"}]},
+"custom.sfx.weapon.shoot.shotgun": {"sounds": [{"name":"custom/sfx/weapon/shoot/shotgun"}]},
 "custom.sfx.weapon.shoot.pistol": {"sounds": [{"name":"custom/sfx/weapon/shoot/pistol"}]},
 "custom.sfx.weapon.shoot.revolver": {"sounds": [{"name":"custom/sfx/weapon/shoot/revolver"}]},
 "custom.sfx.weapon.shoot.minigun": {"sounds": [{"name":"custom/sfx/weapon/shoot/minigun"}]},

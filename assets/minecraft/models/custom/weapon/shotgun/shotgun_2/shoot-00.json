@@ -2,8 +2,8 @@
 "parent":"custom/weapon/shotgun/shotgun_2/base",
 "display":{
 "firstperson_righthand":{
-"rotation":[2.5,6.0,8.0],
-"translation":[0.0,11.35,-5.25],
+"rotation":[1.875,6.0,8.0],
+"translation":[0.0,9.059999999999999,-8.25],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_lefthand":{
@@ -12,7 +12,7 @@
 },
 "firstperson_lefthand":{
 "rotation":[0.0,6.0,8.0],
-"translation":[0.0,11.31,-6.0],
+"translation":[0.0,9.06,-9.75],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_righthand":{
