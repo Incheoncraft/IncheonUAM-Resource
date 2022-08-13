@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/sniper_skin_3",
-		"particle": "block/sniper_skin_3"
+		"0": "custom/weapon/sniper_skin_3",
+		"particle": "custom/weapon/sniper_skin_3"
 	},
 	"elements": [
 		{
