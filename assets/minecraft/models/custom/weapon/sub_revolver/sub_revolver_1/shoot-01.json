@@ -2,8 +2,8 @@
 "parent":"custom/weapon/sub_revolver/sub_revolver_1/base",
 "display":{
 "firstperson_righthand":{
-"rotation":[-20.900000000000002,6.0,8.0],
-"translation":[0.0,4.8999999999999995,-9.75],
+"rotation":[6.166666666666666,6.0,8.0],
+"translation":[0.0,9.1,-8.416666666666666],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_lefthand":{
@@ -12,7 +12,7 @@
 },
 "firstperson_lefthand":{
 "rotation":[0.0,6.0,8.0],
-"translation":[0.0,3.34,-9.75],
+"translation":[0.0,5.8999999999999995,-9.75],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_righthand":{
