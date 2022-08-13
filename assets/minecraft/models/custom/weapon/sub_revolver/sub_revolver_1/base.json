@@ -244,7 +244,6 @@
 			"from": [7.00092, 14.50483, -1.96949],
 			"to": [9.00092, 14.50483, 5.03051],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8.00092, 14.00483, 3.78051]},
-			"rotated": [0, 0, 0],
 			"faces": {
 				"north": {"uv": [4.875, 2.375, 5.125, 2.375], "texture": "#0"},
 				"east": {"uv": [5.625, 4.375, 6.5, 4.375], "texture": "#0"},
@@ -615,11 +614,11 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 6, 8],
-			"translation": [0, -0.5, -9.75]
+			"translation": [0, 9.1, -9.75]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 6, 8],
-			"translation": [0, -0.5, -9.75]
+			"translation": [0, 9.1, -9.75]
 		},
 		"ground": {
 			"translation": [0, 2.75, -1.25],
