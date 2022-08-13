@@ -2,8 +2,8 @@
 "parent":"custom/weapon/sniper/sniper_2/base",
 "display":{
 "firstperson_righthand":{
-"rotation":[2.1666666666666665,6.0,8.0],
-"translation":[0.0,11.35,-4.666666666666667],
+"rotation":[2.6666666666666665,6.0,8.0],
+"translation":[0.0,11.35,-3.8333333333333335],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_lefthand":{
@@ -12,7 +12,7 @@
 },
 "firstperson_lefthand":{
 "rotation":[0.0,6.0,8.0],
-"translation":[0.0,1.75,-6.0],
+"translation":[0.0,11.31,-6.0],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_righthand":{
