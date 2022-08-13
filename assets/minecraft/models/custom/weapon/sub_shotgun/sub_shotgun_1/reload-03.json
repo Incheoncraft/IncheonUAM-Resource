@@ -2,8 +2,8 @@
 "parent":"custom/weapon/sub_shotgun/sub_shotgun_1/base",
 "display":{
 "firstperson_righthand":{
-"rotation":[-34.2,6.0,8.0],
-"translation":[0.0,0.8999999999999986,-9.75],
+"rotation":[-46.0,6.0,8.0],
+"translation":[0.0,1.6999999999999993,-9.75],
 "scale":[1.0,1.0,1.0]
 },
 "thirdperson_lefthand":{
