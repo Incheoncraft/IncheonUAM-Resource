@@ -1,0 +1,9 @@
+{
+	"parent": "custom/game/flag/flag_base",
+	"display": {
+		"head": {
+			"translation": [0, -10, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

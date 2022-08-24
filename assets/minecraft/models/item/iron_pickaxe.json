@@ -66,6 +66,12 @@
   { "predicate": {"custom_model_data":77}, "model": "custom/props/ad/ad_2"},
 
 
+  { "predicate": {"custom_model_data":1000}, "model": "custom/game/flag/flag_base"},
+  { "predicate": {"custom_model_data":1001}, "model": "custom/game/flag/flag_red"},
+  { "predicate": {"custom_model_data":1002}, "model": "custom/game/flag/flag_blue"},
+  { "predicate": {"custom_model_data":1010}, "model": "custom/game/flag/flag_base_on_head"},
+  { "predicate": {"custom_model_data":1011}, "model": "custom/game/flag/flag_red_on_head"},
+  { "predicate": {"custom_model_data":1012}, "model": "custom/game/flag/flag_blue_on_head"},
 
   
   { "predicate": {"custom_model_data":999999}, "model": "custom/empty"}

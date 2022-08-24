@@ -1,0 +1,6 @@
+{
+	"parent": "custom/game/flag/flag_base_on_head",
+	"textures": {
+		"1": "custom/game/flag/flag_3"
+	}
+}
