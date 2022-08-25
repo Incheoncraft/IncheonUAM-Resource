@@ -5,7 +5,7 @@
 	"textures": {
 		"0": "custom/game/flag/flag",
 		"1": "custom/game/flag/flag_1",
-		"particle": "gcustom/game/flag/flag"
+		"particle": "custom/game/flag/flag"
 	},
 	"elements": [
 		{
