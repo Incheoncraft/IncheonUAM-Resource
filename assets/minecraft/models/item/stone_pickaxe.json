@@ -21,6 +21,10 @@
 		{ "predicate": {"custom_model_data":110120, "cooldown": 0.958333}, "model": "custom/weapon/rifle/rifle_1/reload-00"},
 		{ "predicate": {"custom_model_data":110120, "cooldown": 0.979167}, "model": "custom/weapon/rifle/rifle_1/base"},
 
+		{ "predicate": {"custom_model_data":111000}, "model": "custom/weapon/rifle/rifle_1_skin_1/base"},
+		{ "predicate": {"custom_model_data":112000}, "model": "custom/weapon/rifle/rifle_1_skin_2/base"},
+		{ "predicate": {"custom_model_data":113000}, "model": "custom/weapon/rifle/rifle_1_skin_3/base"},
+
 		{ "predicate": {"custom_model_data":120000}, "model": "custom/weapon/rifle/rifle_2/base"},
 		{ "predicate": {"custom_model_data":120110, "cooldown": 0.000000}, "model": "custom/weapon/rifle/rifle_2/base"},
 		{ "predicate": {"custom_model_data":120110, "cooldown": 0.500000}, "model": "custom/weapon/rifle/rifle_2/shoot-00"},
@@ -35,6 +39,10 @@
 		{ "predicate": {"custom_model_data":120120, "cooldown": 0.937500}, "model": "custom/weapon/rifle/rifle_2/reload-01"},
 		{ "predicate": {"custom_model_data":120120, "cooldown": 0.958333}, "model": "custom/weapon/rifle/rifle_2/reload-00"},
 		{ "predicate": {"custom_model_data":120120, "cooldown": 0.979167}, "model": "custom/weapon/rifle/rifle_2/base"},
+
+		{ "predicate": {"custom_model_data":121000}, "model": "custom/weapon/rifle/rifle_2_skin_1/base"},
+		{ "predicate": {"custom_model_data":122000}, "model": "custom/weapon/rifle/rifle_2_skin_2/base"},
+		{ "predicate": {"custom_model_data":123000}, "model": "custom/weapon/rifle/rifle_2_skin_3/base"},
 
 		{ "predicate": {"custom_model_data":130000}, "model": "custom/weapon/rifle/rifle_3/base"},
 		{ "predicate": {"custom_model_data":130110, "cooldown": 0.000000}, "model": "custom/weapon/rifle/rifle_3/base"},
@@ -52,6 +60,9 @@
 		{ "predicate": {"custom_model_data":130120, "cooldown": 0.958333}, "model": "custom/weapon/rifle/rifle_3/reload-00"},
 		{ "predicate": {"custom_model_data":130120, "cooldown": 0.979167}, "model": "custom/weapon/rifle/rifle_3/base"},
 
+		{ "predicate": {"custom_model_data":131000}, "model": "custom/weapon/rifle/rifle_3_skin_1/base"},
+		{ "predicate": {"custom_model_data":132000}, "model": "custom/weapon/rifle/rifle_3_skin_2/base"},
+
 		{ "predicate": {"custom_model_data":210000}, "model": "custom/weapon/shotgun/shotgun_1/base"},
 		{ "predicate": {"custom_model_data":210110, "cooldown": 0.000000}, "model": "custom/weapon/shotgun/shotgun_1/base"},
 		{ "predicate": {"custom_model_data":210110, "cooldown": 0.333333}, "model": "custom/weapon/shotgun/shotgun_1/shoot-00"},
@@ -68,6 +79,8 @@
 		{ "predicate": {"custom_model_data":210120, "cooldown": 0.958333}, "model": "custom/weapon/shotgun/shotgun_1/reload-00"},
 		{ "predicate": {"custom_model_data":210120, "cooldown": 0.979167}, "model": "custom/weapon/shotgun/shotgun_1/base"},
 
+		{ "predicate": {"custom_model_data":211000}, "model": "custom/weapon/shotgun/shotgun_1_skin_1/base"},
+
 		{ "predicate": {"custom_model_data":220000}, "model": "custom/weapon/shotgun/shotgun_2/base"},
 		{ "predicate": {"custom_model_data":220110, "cooldown": 0.000000}, "model": "custom/weapon/shotgun/shotgun_2/base"},
 		{ "predicate": {"custom_model_data":220110, "cooldown": 0.333333}, "model": "custom/weapon/shotgun/shotgun_2/shoot-00"},
@@ -83,6 +96,8 @@
 		{ "predicate": {"custom_model_data":220120, "cooldown": 0.937500}, "model": "custom/weapon/shotgun/shotgun_2/reload-01"},
 		{ "predicate": {"custom_model_data":220120, "cooldown": 0.958333}, "model": "custom/weapon/shotgun/shotgun_2/reload-00"},
 		{ "predicate": {"custom_model_data":220120, "cooldown": 0.979167}, "model": "custom/weapon/shotgun/shotgun_2/base"},
+
+		{ "predicate": {"custom_model_data":221000}, "model": "custom/weapon/shotgun/shotgun_2_skin_1/base"},
 
 		{ "predicate": {"custom_model_data":310000}, "model": "custom/weapon/sniper/sniper_1/base"},
 		{ "predicate": {"custom_model_data":310110, "cooldown": 0.000000}, "model": "custom/weapon/sniper/sniper_1/base"},
@@ -114,6 +129,10 @@
 		{ "predicate": {"custom_model_data":310210, "cooldown": 0.500000}, "model": "custom/weapon/sniper/sniper_1/zoom_shoot-01"},
 		{ "predicate": {"custom_model_data":310210, "cooldown": 0.750000}, "model": "custom/weapon/sniper/sniper_1/zoom_shoot-02"},
 
+		{ "predicate": {"custom_model_data":311000}, "model": "custom/weapon/sniper/sniper_1_skin_1/base"},
+		{ "predicate": {"custom_model_data":312000}, "model": "custom/weapon/sniper/sniper_1_skin_2/base"},
+		{ "predicate": {"custom_model_data":313000}, "model": "custom/weapon/sniper/sniper_1_skin_3/base"},
+
 		{ "predicate": {"custom_model_data":320000}, "model": "custom/weapon/sniper/sniper_2/base"},
 		{ "predicate": {"custom_model_data":320110, "cooldown": 0.000000}, "model": "custom/weapon/sniper/sniper_2/base"},
 		{ "predicate": {"custom_model_data":320110, "cooldown": 0.250000}, "model": "custom/weapon/sniper/sniper_2/shoot-00"},
@@ -144,6 +163,9 @@
 		{ "predicate": {"custom_model_data":320210, "cooldown": 0.500000}, "model": "custom/weapon/sniper/sniper_2/zoom_shoot-01"},
 		{ "predicate": {"custom_model_data":320210, "cooldown": 0.750000}, "model": "custom/weapon/sniper/sniper_2/zoom_shoot-02"},
 
+		{ "predicate": {"custom_model_data":321000}, "model": "custom/weapon/sniper/sniper_2_skin_1/base"},
+		{ "predicate": {"custom_model_data":322000}, "model": "custom/weapon/sniper/sniper_2_skin_2/base"},
+
 		{ "predicate": {"custom_model_data":410000}, "model": "custom/weapon/sub_pistol/sub_pistol_1/base"},
 		{ "predicate": {"custom_model_data":410110, "cooldown": 0.000000}, "model": "custom/weapon/sub_pistol/sub_pistol_1/base"},
 		{ "predicate": {"custom_model_data":410110, "cooldown": 0.500000}, "model": "custom/weapon/sub_pistol/sub_pistol_1/shoot-00"},
@@ -158,6 +180,8 @@
 		{ "predicate": {"custom_model_data":410120, "cooldown": 0.937500}, "model": "custom/weapon/sub_pistol/sub_pistol_1/reload-01"},
 		{ "predicate": {"custom_model_data":410120, "cooldown": 0.958333}, "model": "custom/weapon/sub_pistol/sub_pistol_1/reload-00"},
 		{ "predicate": {"custom_model_data":410120, "cooldown": 0.979167}, "model": "custom/weapon/sub_pistol/sub_pistol_1/base"},
+
+		{ "predicate": {"custom_model_data":411000}, "model": "custom/weapon/sub_pistol/sub_pistol_1_skin_1/base"},
 
 		{ "predicate": {"custom_model_data":420000}, "model": "custom/weapon/sub_pistol/sub_pistol_2/base"},
 		{ "predicate": {"custom_model_data":420110, "cooldown": 0.000000}, "model": "custom/weapon/sub_pistol/sub_pistol_2/base"},
@@ -174,6 +198,8 @@
 		{ "predicate": {"custom_model_data":420120, "cooldown": 0.937500}, "model": "custom/weapon/sub_pistol/sub_pistol_2/reload-01"},
 		{ "predicate": {"custom_model_data":420120, "cooldown": 0.958333}, "model": "custom/weapon/sub_pistol/sub_pistol_2/reload-00"},
 		{ "predicate": {"custom_model_data":420120, "cooldown": 0.979167}, "model": "custom/weapon/sub_pistol/sub_pistol_2/base"},
+
+		{ "predicate": {"custom_model_data":421000}, "model": "custom/weapon/sub_pistol/sub_pistol_2_skin_1/base"},
 
 		{ "predicate": {"custom_model_data":510000}, "model": "custom/weapon/sub_revolver/sub_revolver_1/base"},
 		{ "predicate": {"custom_model_data":510110, "cooldown": 0.000000}, "model": "custom/weapon/sub_revolver/sub_revolver_1/base"},
@@ -192,6 +218,8 @@
 		{ "predicate": {"custom_model_data":510120, "cooldown": 0.958333}, "model": "custom/weapon/sub_revolver/sub_revolver_1/reload-00"},
 		{ "predicate": {"custom_model_data":510120, "cooldown": 0.979167}, "model": "custom/weapon/sub_revolver/sub_revolver_1/base"},
 
+		{ "predicate": {"custom_model_data":511000}, "model": "custom/weapon/sub_revolver/sub_revolver_1_skin_1/base"},
+
 		{ "predicate": {"custom_model_data":610000}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/base"},
 		{ "predicate": {"custom_model_data":610110, "cooldown": 0.000000}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/base"},
 		{ "predicate": {"custom_model_data":610110, "cooldown": 0.333333}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/shoot-00"},
@@ -207,6 +235,8 @@
 		{ "predicate": {"custom_model_data":610120, "cooldown": 0.937500}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/reload-01"},
 		{ "predicate": {"custom_model_data":610120, "cooldown": 0.958333}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/reload-00"},
 		{ "predicate": {"custom_model_data":610120, "cooldown": 0.979167}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1/base"},
+
+		{ "predicate": {"custom_model_data":611000}, "model": "custom/weapon/sub_shotgun/sub_shotgun_1_skin_1/base"},
 
 		{ "predicate": {"custom_model_data":710000}, "model": "custom/weapon/grenade/grenade_1"},
 		{ "predicate": {"custom_model_data":720000}, "model": "custom/weapon/grenade/grenade_2"},
