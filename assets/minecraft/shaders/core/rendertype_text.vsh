@@ -44,12 +44,17 @@ void main() {
     }
 
 
-    vec3 shadowColor = vec3(0.248, 0.248, 0.248);
+    // vec3 shadowColor = vec3(0.248, 0.248, 0.248);
 
     if(Position.z == 0.0) {
+        // shadow remover - action bar, title, bossbar.. etc
+        /*
         if(lessThan(vertexColor.rgb, shadowColor) == bvec3(true)) {
             Pos.x += ScrSize.x * 2;
-        } else {
+        }
+        else 
+        {
+        */
             gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1.0);
             if(gl_Position.x >= 0.95 && gl_Position.y >= -0.35 && gl_VertexID <= 7 && vertexColor.b == 84.0/255.0 && vertexColor.g == 84.0/255.0 && vertexColor.r == 252.0/255.0) {
                 Pos.x += ScrSize.x;
@@ -79,14 +84,15 @@ void main() {
                 gl_Position = ProjMat * ModelViewMat * vec4(Pos, 1.0);
             }
             */
-        }
-        /*
+        // }
+        /* // experience
         vec3 isXpGreen = abs(Color.rgb - vec3(0x7e, 0xfc, 0x20) / 255);
         if(Position.y >= ScrSize.y - 36 && Position.y <= ScrSize.y - 25 && (Color.rgb == vec3(0, 0, 0) || (isXpGreen.r < 0.1 && isXpGreen.r < 0.1 && isXpGreen.r < 0.1))) {
             Pos.x += ScrSize.x;
         }
         */
-    }/*
+    }
+    /* // etc
      else if(Position.z == 100.0) {
         Pos.x += ScrSize.x;
     }
