@@ -28,44 +28,6 @@
             "\uE423\uE424\u0000"
         ]},
 
-        {"type":"bitmap","file":"minecraft:font/ui/right/background.png"  ,"ascent":-23,"height":20,"chars":["\uE800"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weaponlayer.png" ,"ascent":-23,"height":20,"chars":["\uE801"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/single.png"      ,"ascent":-37,"height": 2,"chars":["\uE802"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/auto.png"        ,"ascent":-37,"height": 2,"chars":["\uE803"]},
-        
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ar.png"      ,"ascent":-23,"height":20,"chars":["\uE900"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/dmr.png"     ,"ascent":-23,"height":20,"chars":["\uE901"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/sg.png"      ,"ascent":-23,"height":20,"chars":["\uE902"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/pistol.png"  ,"ascent":-23,"height":20,"chars":["\uE903"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/revolver.png","ascent":-23,"height":20,"chars":["\uE904"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/stun_gun.png","ascent":-23,"height":20,"chars":["\uE905"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ult_mg.png"  ,"ascent":-23,"height":20,"chars":["\uE906"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ult_sr.png"  ,"ascent":-23,"height":20,"chars":["\uE907"]},
-
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/ar_ex.png"      ,"ascent":-23,"height":20,"chars":["\uE910"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/dmr_ex.png"     ,"ascent":-23,"height":20,"chars":["\uE911"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/sg_ex.png"      ,"ascent":-23,"height":20,"chars":["\uE912"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/pistol_ex.png"  ,"ascent":-23,"height":20,"chars":["\uE913"]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weapon/revolver_ex.png","ascent":-23,"height":20,"chars":["\uE914"]},
-
-        {"type":"bitmap","file":"minecraft:font/ui/right/number_big.png"  ,"ascent":-28,"height": 6,"chars":[
-            "\uEA00\uEA01\uEA02\uEA03\uEA04",
-            "\uEA05\uEA06\uEA07\uEA08\uEA09"
-        ]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/number_small.png","ascent":-35,"height": 4,"chars":[
-            "\uEA10\uEA11\uEA12\uEA13\uEA14",
-            "\uEA15\uEA16\uEA17\uEA18\uEA19"
-        ]},
-        {"type":"bitmap","file":"minecraft:font/ui/right/weaponlayer.png" ,"ascent":-23,"height":20,"chars":[
-            "\uEB00\uEB01\uEB02\uEB03\uEB04\uEB05\uEB06\uEB07\uEB08\uEB09\uEB0A\uEB0B\uEB0C\uEB0D\uEB0E\uEB0F\uEB10\uEB11\uEB12\uEB13\uEB14\uEB15\uEB16\uEB17\uEB18\uEB19\uEB1A\uEB1B\uEB1C\uEB1D\uEB1E\uEB1F\uEB20\uEB21\uEB22\uEB23\uEB24\uEB25\uEB26\uEB27\uEB28\uEB29\uEB2A\uEB2B\uEB2C\uEB2D\uEB2E\uEB2F\uEB30\uEB31\uEB32\uEB33\uEB34\uEB35\uEB36\uEB37\uEB38\uEB39\uEB3A\uEB3B\uEB3C\uEB3D\uEB3E\uEB3F\uEB40\uEB41\uEB42\uEB43\uEB44\uEB45\uEB46\uEB47\uEB48\uEB49\uEB4A\uEB4B\uEB4C\uEB4D\uEB4E\uEB4F\uEB50"
-        ]},
-
-        {"type":"bitmap","file":"minecraft:font/ui/sidebar/background.png","ascent":17,"height":19,"chars":["\uEC00"]},
-        {"type":"bitmap","file":"minecraft:font/ui/sidebar/overlay.png"   ,"ascent":17,"height":19,"chars":["\uEC01"]},
-        {"type":"bitmap","file":"minecraft:font/ui/sidebar/health.png"    ,"ascent":7,"height":9,"chars":[
-            "\uED00\uED01\uED02\uED03\uED04\uED05\uED06\uED07\uED08\uED09\uED0A\uED0B\uED0C\uED0D\uED0E\uED0F\uED10\uED11\uED12\uED13\uED14\uED15\uED16\uED17\uED18\uED19\uED1A\uED1B\uED1C\uED1D\uED1E\uED1F\uED20\uED21\uED22\uED23\uED24\uED25\uED26\uED27\uED28\uED29\uED2A\uED2B\uED2C\uED2D\uED2E\uED2F\uED30\uED31\uED32\uED33\uED34\uED35\uED36\uED37\uED38\uED39\uED3A\uED3B\uED3C\uED3D\uED3E\uED3F\uED40\uED41\uED42\uED43\uED44\uED45\uED46\uED47\uED48\uED49\uED4A\uED4B\uED4C\uED4D\uED4E\uED4F\uED50\uED51\uED52\uED53\uED54\uED55\uED56\uED57\uED58\uED59\uED5A\uED5B\uED5C\uED5D\uED5E\uED5F\uED60\uED61\uED62"
-        ]},
-
         {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":2,"height":8,"chars":["\uF000"]},
         {"type":"bitmap","file":"minecraft:font/shift.png","ascent":7,"height":8,"chars":["㈓"]},
         {"type":"bitmap","file":"minecraft:font/ctrl.png","ascent":7,"height":8,"chars":["㈔"]},
@@ -137,7 +99,7 @@
         {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":511,   "chars":["\uF83E"]},
         {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":1023,  "chars":["\uF83F"]},
         {"type":"bitmap","file":"space:font/space_split.png","ascent": -65536,"height":32767, "chars":["\uF830"]},
-        
+
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
 	]
 }
