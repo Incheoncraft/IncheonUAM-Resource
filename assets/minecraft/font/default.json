@@ -100,6 +100,13 @@
         {"type":"bitmap","file":"space:font/space_split.png","ascent": -32768,"height":1023,  "chars":["\uF83F"]},
         {"type":"bitmap","file":"space:font/space_split.png","ascent": -65536,"height":32767, "chars":["\uF830"]},
 
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/left_fill.png","ascent": 0,"height": 32, "chars":["\u1000"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_fill.png" ,"ascent": 0,"height": 32,"chars":["\u1001"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/right_fill.png","ascent": 0,"height": 32, "chars":["\u1002"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/left_unfill.png","ascent": 0,"height": 32, "chars":["\u1003"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_unfill.png","ascent": 0,"height": 32, "chars":["\u1004"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tuho/right_unfill.png","ascent": 0,"height": 32, "chars":["\u1005"]},
+
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
 	]
 }
