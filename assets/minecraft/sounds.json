@@ -18,9 +18,12 @@
 "custom.sfx.weapon.shoot.revolver": {"sounds": [{"name":"custom/sfx/weapon/shoot/revolver"}]},
 "custom.sfx.weapon.shoot.minigun": {"sounds": [{"name":"custom/sfx/weapon/shoot/minigun"}]},
 
-"custom.sfx.weapon.test.shoot_1": {"sounds": [{"name":"custom/sfx/weapon/test/shoot_1"}]}
+"custom.sfx.weapon.test.shoot_1": {"sounds": [{"name":"custom/sfx/weapon/test/shoot_1"}]},
 
-
+"custom.sfx.violin.1": {"sounds": [{"name":"custom/sfx/instrument/violin_1"}]},
+"custom.sfx.violin.2": {"sounds": [{"name":"custom/sfx/instrument/violin_2"}]},
+"custom.sfx.violin.3": {"sounds": [{"name":"custom/sfx/instrument/violin_3"}]},
+"custom.sfx.violin.4": {"sounds": [{"name":"custom/sfx/instrument/violin_4"}]}
 
 
 }
