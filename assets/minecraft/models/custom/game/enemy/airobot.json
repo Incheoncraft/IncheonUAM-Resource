@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "game/enemy/airobot",
-		"particle": "game/enemy/airobot"
+		"0": "custom/game/enemy/airobot",
+		"particle": "custom/game/enemy/airobot"
 	},
 	"elements": [
 		{
