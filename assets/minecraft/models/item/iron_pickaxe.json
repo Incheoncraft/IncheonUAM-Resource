@@ -72,6 +72,11 @@
   { "predicate": {"custom_model_data":1010}, "model": "custom/game/flag/flag_base_on_head"},
   { "predicate": {"custom_model_data":1011}, "model": "custom/game/flag/flag_red_on_head"},
   { "predicate": {"custom_model_data":1012}, "model": "custom/game/flag/flag_blue_on_head"},
+  
+  
+  
+  { "predicate": {"custom_model_data":2000}, "model": "custom/game/enemy/airobot"},
+  
 
   
   { "predicate": {"custom_model_data":999999}, "model": "custom/empty"}
