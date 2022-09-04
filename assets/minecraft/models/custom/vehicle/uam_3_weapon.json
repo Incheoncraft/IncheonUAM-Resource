@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"4": "custom/vehicle/uam_5_2",
-		"particle": "custom/vehicle/uam_5_3"
+		"4": "custom/vehicle/uam_3_2",
+		"particle": "custom/vehicle/uam_3_3"
 	},
 	"elements": [
 		{

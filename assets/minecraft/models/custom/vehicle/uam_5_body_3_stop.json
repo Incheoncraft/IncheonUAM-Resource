@@ -1,5 +1,5 @@
 {
-	"parent": "custom/vehicle/uam_5_body",
+	"parent": "custom/vehicle/uam_5_body_3",
 	"textures": {
 		"1": "custom/vehicle/heli_p_stop"
 	}
