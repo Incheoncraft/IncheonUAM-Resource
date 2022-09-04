@@ -23,7 +23,14 @@
 "custom.sfx.violin.1": {"sounds": [{"name":"custom/sfx/instrument/violin_1"}]},
 "custom.sfx.violin.2": {"sounds": [{"name":"custom/sfx/instrument/violin_2"}]},
 "custom.sfx.violin.3": {"sounds": [{"name":"custom/sfx/instrument/violin_3"}]},
-"custom.sfx.violin.4": {"sounds": [{"name":"custom/sfx/instrument/violin_4"}]}
+"custom.sfx.violin.4": {"sounds": [{"name":"custom/sfx/instrument/violin_4"}]},
+
+"custom.sfx.robot.damage.1": {"sounds": [{"name":"custom/sfx/entity/robot_damage_1"}]},
+"custom.sfx.robot.damage.2": {"sounds": [{"name":"custom/sfx/entity/robot_damage_2"}]},
+"custom.sfx.robot.damage.3": {"sounds": [{"name":"custom/sfx/entity/robot_damage_3"}]},
+"custom.sfx.robot.damage.4": {"sounds": [{"name":"custom/sfx/entity/robot_damage_4"}]},
+"custom.sfx.robot.attack": {"sounds": [{"name":"custom/sfx/entity/robot_attack"}]},
+"custom.sfx.robot.death": {"sounds": [{"name":"custom/sfx/entity/robot_death"}]}
 
 
 }
