@@ -919,7 +919,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [-22.25, -36.25, 5.75]
+			"translation": [0.75, -36.25, 5.75],
+			"scale": [2.46, 2.46, 2.46]
 		}
 	},
 	"groups": [
