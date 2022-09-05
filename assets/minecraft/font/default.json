@@ -102,9 +102,17 @@
 
         {"type":"bitmap","file":"minecraft:font/ui/tuho/fill.png","ascent": 0,"height": 4, "chars":["\u1000\u1002"]},
         {"type":"bitmap","file":"minecraft:font/ui/tuho/unfill.png","ascent": 0,"height": 4, "chars":["\u1003\u1005"]},
-        
         {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_fill.png","ascent": 0,"height": 4, "chars":["\u1001"]},
         {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_unfill.png","ascent": 0,"height": 4, "chars":["\u1004"]},
+
+
+
+        {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/main.png","ascent": -10,"height": 8, "chars":["\u1006\u1007"]},
+        {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/punch.png","ascent": -6,"height": 8, "chars":["\u1008"]},
+        
+        {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/count_icon.png","ascent": -20,"height": 8, "chars":["\u1009\u100A"]},
+
+
 
 
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
