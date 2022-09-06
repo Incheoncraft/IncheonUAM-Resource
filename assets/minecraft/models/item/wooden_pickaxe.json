@@ -22,6 +22,11 @@
 		{ "predicate": {"custom_model_data":330}, "model": "custom/vehicle/uam_3_body"},
 		{ "predicate": {"custom_model_data":331}, "model": "custom/vehicle/uam_3_weapon"},
 		{ "predicate": {"custom_model_data":332}, "model": "custom/vehicle/uam_3_body_stop"},
+
+		{ "predicate": {"custom_model_data":340}, "model": "custom/vehicle/uam_4_body_1"},
+		{ "predicate": {"custom_model_data":341}, "model": "custom/vehicle/uam_4_body_2"},
+		{ "predicate": {"custom_model_data":342}, "model": "custom/vehicle/uam_4_body_3"},
+		{ "predicate": {"custom_model_data":343}, "model": "custom/vehicle/uam_4_body_2_stop"},
 		
 		{ "predicate": {"custom_model_data":350}, "model": "custom/vehicle/uam_5_body_1"},
 		{ "predicate": {"custom_model_data":351}, "model": "custom/vehicle/uam_5_body_2"},
