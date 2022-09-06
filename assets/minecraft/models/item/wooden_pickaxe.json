@@ -13,6 +13,12 @@
 		{ "predicate": {"custom_model_data":210}, "model": "custom/vehicle/moon_boat"},
 		{ "predicate": {"custom_model_data":220}, "model": "custom/vehicle/tactical_boat"},
 		
+		{ "predicate": {"custom_model_data":310}, "model": "custom/vehicle/uam_1_body"},
+		{ "predicate": {"custom_model_data":311}, "model": "custom/vehicle/uam_1_body_stop"},
+		
+		{ "predicate": {"custom_model_data":320}, "model": "custom/vehicle/uam_2_body"},
+		{ "predicate": {"custom_model_data":321}, "model": "custom/vehicle/uam_2_body_stop"},
+
 		{ "predicate": {"custom_model_data":330}, "model": "custom/vehicle/uam_3_body"},
 		{ "predicate": {"custom_model_data":331}, "model": "custom/vehicle/uam_3_weapon"},
 		{ "predicate": {"custom_model_data":332}, "model": "custom/vehicle/uam_3_body_stop"},
