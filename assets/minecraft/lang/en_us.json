@@ -151,5 +151,9 @@
   "container.inventory": "§fInventory",
   "container.crafting": "",
   "multiplayer.unsecureserver.toast.title": "",
-  "multiplayer.unsecureserver.toast": ""
+  "multiplayer.unsecureserver.toast": "",
+  "chat.tag.filtered": "",
+  "chat.tag.modified": "",
+  "chat.tag.modified.original": "",
+  "chat.tag.not_secure": ""
 }

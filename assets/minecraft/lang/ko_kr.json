@@ -150,5 +150,9 @@
   "container.inventory": "§f보관함",
   "container.crafting": "",
   "multiplayer.unsecureserver.toast": "",
-  "multiplayer.unsecureserver.toast.title": ""
+  "multiplayer.unsecureserver.toast.title": "",
+  "chat.tag.filtered": "",
+  "chat.tag.modified": "",
+  "chat.tag.modified.original": "",
+  "chat.tag.not_secure": ""
 }
