@@ -1,7 +1,7 @@
 {
 "textures":{
-"0":"custom/weapon/rifle_3",
-"particle":"custom/weapon/rifle_3"
+"0":"custom/uam/weapon/rifle/rifle_3",
+"particle":"custom/uam/weapon/rifle/rifle_3"
 },
 "texture_size":[64,64],
 "elements":[{

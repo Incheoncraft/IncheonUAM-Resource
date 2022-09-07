@@ -1,6 +1,6 @@
 {
-	"parent": "custom/vehicle/uam_5_body_3",
+	"parent": "custom/uam/vehicle/uam/uam_5_body_3",
 	"textures": {
-		"1": "custom/vehicle/heli_p_stop"
+		"1": "custom/uam/vehicle/uam/heli_p_stop"
 	}
 }

@@ -1,5 +1,5 @@
 {
-"parent":"custom/weapon/rifle/rifle_2_skin_2/base",
+"parent":"custom/uam/weapon/rifle/rifle_2_skin_2/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-8.6,6.0,8.0],

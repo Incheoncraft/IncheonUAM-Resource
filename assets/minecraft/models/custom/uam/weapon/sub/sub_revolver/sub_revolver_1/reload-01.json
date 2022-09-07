@@ -1,5 +1,5 @@
 {
-"parent":"custom/weapon/sub_revolver/sub_revolver_1/base",
+"parent":"custom/uam/weapon/sub/sub_revolver/sub_revolver/sub_revolver_1/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-20.900000000000002,6.0,8.0],

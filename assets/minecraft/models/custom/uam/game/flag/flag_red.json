@@ -1,6 +1,6 @@
 {
-	"parent": "custom/game/flag/flag_base",
+	"parent": "custom/uam/game/flag/flag_base",
 	"textures": {
-		"1": "custom/game/flag/flag_3"
+		"1": "custom/uam/game/flag/flag_3"
 	}
 }

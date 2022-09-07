@@ -1,5 +1,5 @@
 {
-"parent":"custom/weapon/sub_pistol/sub_pistol_2/base",
+"parent":"custom/uam/weapon/sub/sub_pistol/sub_pistol/sub_pistol_2/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-32.85,6.0,8.0],

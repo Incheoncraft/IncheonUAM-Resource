@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "custom/vehicle/offroad_car",
-		"particle": "custom/vehicle/offroad_car"
+		"0": "custom/uam/vehicle/offroad_car",
+		"particle": "custom/uam/vehicle/offroad_car"
 	},
 	"elements": [
 		{

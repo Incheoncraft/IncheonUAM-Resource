@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/equipment/helmet_3",
-		"particle": "custom/equipment/helmet_3"
+		"0": "custom/uam/equipment/helmet_3",
+		"particle": "custom/uam/equipment/helmet_3"
 	},
 	"elements": [
 		{

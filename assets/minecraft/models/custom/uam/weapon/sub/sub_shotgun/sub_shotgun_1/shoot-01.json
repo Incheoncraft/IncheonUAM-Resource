@@ -1,7 +1,7 @@
 {
 "textures":{
-"0":"custom/weapon/sub_shotgun_1",
-"particle":"custom/weapon/sub_shotgun_1"
+"0":"custom/uam/weapon/sub/sub_shotgun/sub_shotgun_1",
+"particle":"custom/uam/weapon/sub/sub_shotgun/sub_shotgun_1"
 },
 "texture_size":[64,64],
 "elements":[{

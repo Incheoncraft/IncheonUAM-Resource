@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/object/punch_machine",
-		"1": "custom/object/punch_machine_logo",
-		"particle": "custom/object/punch_machine"
+		"0": "custom/uam/object/entity/punch_machine",
+		"1": "custom/uam/object/entity/punch_machine_logo",
+		"particle": "custom/uam/object/entity/punch_machine"
 	},
 	"elements": [
 		{

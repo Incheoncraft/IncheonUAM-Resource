@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/object/cocktail_side",
-		"1": "custom/object/cocktail_1",
-		"particle": "custom/object/cocktail_side"
+		"0": "custom/uam/object/item/cocktail_side",
+		"1": "custom/uam/object/item/cocktail_1",
+		"particle": "custom/uam/object/item/cocktail_side"
 	},
 	"elements": [
 		{

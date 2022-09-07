@@ -1,5 +1,5 @@
 {
-"parent":"custom/weapon/rifle/rifle_3/base",
+"parent":"custom/uam/weapon/rifle/rifle_3/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-24.1,6.0,8.0],

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/decoration/angel_ring_wings",
-		"1": "custom/decoration/angel_ring",
-		"particle": "custom/decoration/angel_ring_wings"
+		"0": "custom/uam/decoration/angel_ring_wings",
+		"1": "custom/uam/decoration/angel_ring",
+		"particle": "custom/uam/decoration/angel_ring_wings"
 	},
 	"elements": [
 		{

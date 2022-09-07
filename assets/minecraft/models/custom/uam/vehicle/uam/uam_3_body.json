@@ -3,11 +3,11 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "custom/vehicle/heli_p",
-		"2": "custom/vehicle/uam_3_4",
-		"3": "custom/vehicle/uam_3_1",
-		"6": "custom/vehicle/uam_3_3",
-		"particle": "custom/vehicle/uam_3_3"
+		"1": "custom/uam/vehicle/uam/heli_p",
+		"2": "custom/uam/vehicle/uam/uam_3_4",
+		"3": "custom/uam/vehicle/uam/uam_3_1",
+		"6": "custom/uam/vehicle/uam/uam_3_3",
+		"particle": "custom/uam/vehicle/uam/uam_3_3"
 	},
 	"elements": [
 		{

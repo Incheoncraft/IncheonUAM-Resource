@@ -1,5 +1,5 @@
 {
-	"parent": "custom/game/flag/flag_base",
+	"parent": "custom/uam/game/flag/flag_base",
 	"display": {
 		"head": {
 			"translation": [0, -10, 0],

@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/game/flag/flag",
-		"1": "custom/game/flag/flag_1",
-		"particle": "custom/game/flag/flag"
+		"0": "custom/uam/game/flag/flag",
+		"1": "custom/uam/game/flag/flag_1",
+		"particle": "custom/uam/game/flag/flag"
 	},
 	"elements": [
 		{

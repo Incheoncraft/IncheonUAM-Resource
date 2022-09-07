@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/decoration/alien_glasses_green",
-		"1": "custom/decoration/alien_glasses_black",
-		"particles": "custom/decoration/alien_glasses_green"
+		"0": "custom/uam/decoration/alien_glasses_green",
+		"1": "custom/uam/decoration/alien_glasses_black",
+		"particles": "custom/uam/decoration/alien_glasses_green"
 	},
 	"elements": [
 		{

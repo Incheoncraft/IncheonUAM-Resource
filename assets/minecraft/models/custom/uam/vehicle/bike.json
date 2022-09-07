@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/vehicle/bike",
-		"particle": "custom/vehicle/bike"
+		"0": "custom/uam/vehicle/bike",
+		"particle": "custom/uam/vehicle/bike"
 	},
 	"elements": [
 		{

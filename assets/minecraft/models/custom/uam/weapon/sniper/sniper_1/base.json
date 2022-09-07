@@ -1,7 +1,7 @@
 {
 "textures":{
-"0":"custom/weapon/sniper_1",
-"particle":"custom/weapon/sniper_1"
+"0":"custom/uam/weapon/sniper/sniper_1",
+"particle":"custom/uam/weapon/sniper/sniper_1"
 },
 "texture_size":[128,128],
 "elements":[{

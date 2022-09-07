@@ -1,5 +1,5 @@
 {
-"parent":"custom/weapon/sniper/sniper_2/zoom-02",
+"parent":"custom/uam/weapon/sniper/sniper/sniper_2/zoom-02",
 "display":{
 "firstperson_righthand":{
 "translation":[-9.0,9.35,8.25],

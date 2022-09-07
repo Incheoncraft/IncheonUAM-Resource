@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"1": "custom/vehicle/heli_p",
-		"3": "custom/vehicle/uam_4",
-		"particle": "custom/vehicle/uam_4"
+		"1": "custom/uam/vehicle/uam/heli_p",
+		"3": "custom/uam/vehicle/uam/uam_4",
+		"particle": "custom/uam/vehicle/uam/uam_4"
 	},
 	"elements": [
 		{
