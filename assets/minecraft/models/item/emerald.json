@@ -4,12 +4,11 @@
 		"layer0": "item/emerald"
 	},
 	    "overrides": [
-		{ "predicate": {"custom_model_data":1000}, "model": "custom/game/enemy/airobot"},
-		{ "predicate": {"custom_model_data":1001}, "model": "custom/game/enemy/airobot_damaged"},
+		{ "predicate": {"custom_model_data":1000}, "model": "custom/uam/game/enemy/airobot"},
+		{ "predicate": {"custom_model_data":1001}, "model": "custom/uam/game/enemy/airobot_damaged"},
 		
-		
-        { "predicate": {"custom_model_data":1000001}, "model": "custom/object/punch_machine" },
-		{ "predicate": {"custom_model_data":1000002}, "model": "custom/object/punch_bar" },
-		{ "predicate": {"custom_model_data":1000003}, "model": "custom/object/mice_pane" }
+        { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},
+		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/object/entity/punch_bar"},
+		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/object/pane/mice_pane"}
     ]  
 }
