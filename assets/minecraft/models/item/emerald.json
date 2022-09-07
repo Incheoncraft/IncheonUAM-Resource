@@ -5,6 +5,7 @@
 	},
 	    "overrides": [
         { "predicate": {"custom_model_data":1000001}, "model": "custom/object/punch_machine" },
-		{ "predicate": {"custom_model_data":1000002}, "model": "custom/object/punch_bar" }
+		{ "predicate": {"custom_model_data":1000002}, "model": "custom/object/punch_bar" },
+		{ "predicate": {"custom_model_data":1000003}, "model": "custom/object/mice_pane" }
     ]  
 }
