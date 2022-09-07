@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "item/props/c-5_hatch",
-		"particle": "item/props/c-5_hatch"
+		"0": "custom/lastshelter/c-5_hatch",
+		"particle": "custom/lastshelter/c-5_hatch"
 	},
 	"elements": [
 		{

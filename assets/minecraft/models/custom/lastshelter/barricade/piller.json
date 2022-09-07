@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/props/barricade_piller",
-		"particle": "item/props/barricade_piller"
+		"0": "custom/lastshelter/barricade/piller",
+		"particle": "custom/lastshelter/barricade/piller"
 	},
 	"elements": [
 		{

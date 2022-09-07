@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/vehicle/drone_fan_animation",
-		"2": "item/vehicle/drone",
-		"particle": "item/vehicle/drone"
+		"1": "custom/lastshelter/vehicle/drone_fan_animation",
+		"2": "custom/lastshelter/vehicle/drone",
+		"particle": "custom/lastshelter/vehicle/drone"
 	},
 	"elements": [
 		{

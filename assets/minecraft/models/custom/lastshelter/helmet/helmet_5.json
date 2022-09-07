@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/props/helmets",
-		"particle": "item/props/helmets"
+		"0": "custom/lastshelter/helmet/helmets",
+		"particle": "custom/lastshelter/helmet/helmets"
 	},
 	"elements": [
 		{

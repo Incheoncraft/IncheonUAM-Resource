@@ -1,6 +1,6 @@
 {
 	"parent": "custom/props/ad/ad_banner",
 	"textures": {
-		"0": "item/ads/6"
+		"0": "custom/lastshelter/ad/banner_4"
 	}
 }

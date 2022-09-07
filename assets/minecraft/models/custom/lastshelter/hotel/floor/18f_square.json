@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/props/hotel_floortag",
-		"particle": "item/props/17f"
+		"1": "custom/lastshelter/hotel/floor/floortag",
+		"particle": "custom/lastshelter/hotel/floor/17f"
 	},
 	"elements": [
 		{
