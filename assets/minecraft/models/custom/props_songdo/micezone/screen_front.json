@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "props/micezone_screen_front",
+		"1": "props/micezone_enterence_logo",
+		"particle": "props/micezone_screen_front"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 7.5],
+			"to": [24, 20, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 10, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 2.91675, 15.91675, 13.0835], "texture": "#1"},
+				"east": {"uv": [8, 0.25, 8.25, 6.25], "texture": "#0"},
+				"south": {"uv": [0, 6, 8, 12], "texture": "#0"},
+				"west": {"uv": [8, 8.25, 8.25, 14.25], "texture": "#0"},
+				"up": {"uv": [16, 8.25, 8, 8], "texture": "#0"},
+				"down": {"uv": [16, 0, 8, 0.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -8.75, 12],
+			"scale": [3, 3, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"scale": [0.3, 0.3, 0.3]
+		}
+	}
+}
