@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "props/box_bundle_00",
-		"particle": "props/box_bundle_00"
+		"0": "custom/songdo/box/bundle_00",
+		"particle": "custom/songdo/box/bundle_00"
 	},
 	"elements": [
 		{

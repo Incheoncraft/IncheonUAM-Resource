@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/fireplug",
-		"1": "props/fireplug_acc",
-		"particle": "props/fireplug"
+		"0": "custom/songdo/emergency/fireplug",
+		"1": "custom/songdo/emergency/fireplug_acc",
+		"particle": "custom/songdo/emergency/fireplug"
 	},
 	"elements": [
 		{

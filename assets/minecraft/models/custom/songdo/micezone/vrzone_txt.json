@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "imgs/micezone_txt_vrzone",
-		"particle": "imgs/micezone_txt_vrzone"
+		"0": "custom/songdo/micezone/vrzone_txt",
+		"particle": "custom/songdo/micezone/vrzone_txt"
 	},
 	"elements": [
 		{

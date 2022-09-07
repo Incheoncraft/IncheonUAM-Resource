@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "props/1hall",
-		"particle": "props/1hall"
+		"0": "custom/songdo/1hall",
+		"particle": "custom/songdo/1hall"
 	},
 	"elements": [
 		{

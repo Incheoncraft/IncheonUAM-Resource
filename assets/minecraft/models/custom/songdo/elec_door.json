@@ -2,8 +2,8 @@
 	"credit": "Made with Kimlikeit",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "props/seq_01",
-		"particle": "props/seq_01"
+		"0": "custom/songdo/elec_door",
+		"particle": "custom/songdo/elec_door"
 	},
 	"elements": [
 		{

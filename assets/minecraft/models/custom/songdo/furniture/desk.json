@@ -2,8 +2,8 @@
 	"credit": "Made with Kimlikeit",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "props/deskk",
-		"particle": "props/deskk"
+		"0": "custom/songdo/furniture/desk",
+		"particle": "custom/songdo/furniture/desk"
 	},
 	"elements": [
 		{

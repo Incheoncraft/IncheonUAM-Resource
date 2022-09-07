@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "props/micezone_ar",
-		"1": "props/micezone_ar_acc",
-		"2": "props/micezone_ar_acc_2",
-		"3": "imgs/micezone_txt_ar",
-		"particle": "props/micezone_ar"
+		"0": "custom/songdo/micezone/ar",
+		"1": "custom/songdo/micezone/ar_acc",
+		"2": "custom/songdo/micezone/ar_acc_2",
+		"3": "custom/songdo/micezone/ar_txt",
+		"particle": "custom/songdo/micezone/ar"
 	},
 	"elements": [
 		{

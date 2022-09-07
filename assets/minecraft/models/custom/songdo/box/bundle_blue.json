@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "props/box_bundle_blue"
+		"1": "custom/songdo/box/bundle_blue"
 	},
 	"elements": [
 		{

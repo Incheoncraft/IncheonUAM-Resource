@@ -2,7 +2,7 @@
 	"credit": "Made with Kimlikeit",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "props/tch_01"
+		"1": "custom/songdo/furniture/table_chair"
 	},
 	"elements": [
 		{

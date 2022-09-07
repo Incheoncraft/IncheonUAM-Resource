@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "props/mad_table",
-		"particle": "props/mad_table"
+		"0": "custom/songdo/furniture/mad_table",
+		"particle": "custom/songdo/furniture/mad_table"
 	},
 	"elements": [
 		{

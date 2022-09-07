@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "imgs/micezone_txt_vrzone_conventour",
-		"1": "props/micezone_vrgame_tour",
-		"2": "props/micezone_enterence_logo",
-		"3": "props/micezone_vrgame_acc",
-		"particle": "imgs/micezone_txt_vrzone_conventour"
+		"0": "custom/songdo/micezone/vrzone_conventour_txt",
+		"1": "custom/songdo/micezone/vrgame_tour",
+		"2": "custom/songdo/micezone/enterence_logo",
+		"3": "custom/songdo/micezone/vrgame_acc",
+		"particle": "custom/songdo/micezone/vrzone_conventour_txt"
 	},
 	"elements": [
 		{

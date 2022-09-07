@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "imgs/flowerpot",
-		"1": "props/double_plant_sunflower_bottom",
-		"2": "props/double_plant_sunflower_front",
-		"3": "props/double_plant_sunflower_top",
-		"4": "props/tallgrass",
-		"particle": "imgs/flowerpot"
+		"0": "custom/songdo/props/flowerpot",
+		"1": "custom/songdo/props/double_plant_sunflower_bottom",
+		"2": "custom/songdo/props/double_plant_sunflower_front",
+		"3": "custom/songdo/props/double_plant_sunflower_top",
+		"4": "custom/songdo/props/tallgrass",
+		"particle": "custom/songdo/props/flowerpot"
 	},
 	"elements": [
 		{

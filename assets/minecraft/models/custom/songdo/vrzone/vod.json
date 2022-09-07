@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "imgs/vr_vod",
-		"1": "imgs/vrzone_vod",
-		"particle": "imgs/vr_vod"
+		"0": "custom/songdo/vrzone/vr_vod",
+		"1": "custom/songdo/vrzone/vod",
+		"particle": "custom/songdo/vrzone/vr_vod"
 	},
 	"elements": [
 		{

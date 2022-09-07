@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "props/micezone_screen_front",
-		"1": "props/micezone_enterence_logo",
-		"particle": "props/micezone_screen_front"
+		"0": "custom/songdo/micezone/screen_front",
+		"1": "custom/songdo/micezone/enterence_logo",
+		"particle": "custom/songdo/micezone/screen_front"
 	},
 	"elements": [
 		{

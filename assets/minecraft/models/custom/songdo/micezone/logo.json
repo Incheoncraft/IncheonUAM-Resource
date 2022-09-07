@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "imgs/logo",
-		"1": "props/logo_body",
-		"2": "imgs/micezone_logo_lounge_korean",
-		"3": "imgs/micezone_logo_lounge",
-		"particle": "imgs/logo"
+		"0": "custom/songdo/micezone/logo",
+		"1": "custom/songdo/micezone/logo_body",
+		"2": "custom/songdo/micezone/logo_lounge_korean",
+		"3": "custom/songdo/micezone/logo_lounge",
+		"particle": "custom/songdo/micezone/logo"
 	},
 	"elements": [
 		{

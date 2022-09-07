@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/props/holidayinn_logo_green_text",
-		"particle": "custom/props/holidayinn_logo_green_text"
+		"0": "custom/songdo/holidayinn/logo_green_text",
+		"particle": "custom/songdo/holidayinn/logo_green_text"
 	},
 	"elements": [
 		{
