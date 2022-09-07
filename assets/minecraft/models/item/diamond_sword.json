@@ -4,9 +4,9 @@
 		"layer0": "item/diamond_sword"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data":1000009}, "model": "custom/props_songdo/holidayinn/banner" },
-		{ "predicate": {"custom_model_data":1000010}, "model": "custom/props_songdo/holidayinn/banner_icon" },
-		{ "predicate": {"custom_model_data":1000011}, "model": "custom/props_songdo/holidayinn/parksign" }
+		{ "predicate": {"custom_model_data":1000009}, "model": "custom/songdo/holidayinn/banner" },
+		{ "predicate": {"custom_model_data":1000010}, "model": "custom/songdo/holidayinn/banner_icon" },
+		{ "predicate": {"custom_model_data":1000011}, "model": "custom/songdo/holidayinn/parksign" }
 	
 	]
 }
