@@ -1,5 +1,5 @@
 {
-"parent":"custom/uam/weapon/sniper/sniper/sniper_1/base",
+"parent":"custom/uam/weapon/sniper/sniper_1/base",
 "textures":{
 "0":"custom/uam/weapon/sniper/sniper_1",
 "particle":"custom/uam/weapon/sniper/sniper_1"

@@ -3,7 +3,7 @@
 "0":"custom/uam/weapon/rifle/rifle_1",
 "particle":"custom/uam/weapon/rifle/rifle_1"
 },
-"parent":"custom/uam/weapon/rifle/rifle/rifle_1/base",
+"parent":"custom/uam/weapon/rifle/rifle_1/base",
 "texture_size":[128,128],
 "display":{
 "firstperson_righthand":{

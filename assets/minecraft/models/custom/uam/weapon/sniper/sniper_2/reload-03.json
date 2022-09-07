@@ -1,5 +1,5 @@
 {
-"parent":"custom/uam/weapon/sniper/sniper/sniper_2/base",
+"parent":"custom/uam/weapon/sniper/sniper_2/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-34.800000000000004,6.0,8.0],
