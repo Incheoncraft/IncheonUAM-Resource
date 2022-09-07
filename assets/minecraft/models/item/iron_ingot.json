@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_ingot"
+	},
+	    "overrides": [
+		{ "predicate": {"custom_model_data":1000012}, "model": "custom/incheon/word/in" },
+		{ "predicate": {"custom_model_data":1000013}, "model": "custom/incheon/word/ch" },
+		{ "predicate": {"custom_model_data":1000014}, "model": "custom/incheon/word/eo" },
+		{ "predicate": {"custom_model_data":1000015}, "model": "custom/incheon/word/n" },
+		{ "predicate": {"custom_model_data":1000016}, "model": "custom/incheon/word/all" },
+		{ "predicate": {"custom_model_data":1000017}, "model": "custom/incheon/word/ways" },
+		{ "predicate": {"custom_model_data":1000051}, "model": "custom/incheon/airport/in" },
+		{ "predicate": {"custom_model_data":1000052}, "model": "custom/incheon/airport/ch" },
+		{ "predicate": {"custom_model_data":1000053}, "model": "custom/incheon/airport/eo" },
+		{ "predicate": {"custom_model_data":1000054}, "model": "custom/incheon/airport/n" },
+		{ "predicate": {"custom_model_data":1000055}, "model": "custom/incheon/airport/all" },
+		{ "predicate": {"custom_model_data":1000056}, "model": "custom/incheon/airport/ways" }
+    ]  
+}
