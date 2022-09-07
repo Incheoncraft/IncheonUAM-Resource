@@ -6,6 +6,7 @@
 
 | item            | description    |
 |-----------------|----------------|
+| iron_ingot      | 인천크래프트 기본 모델   |
 | diamond_pickaxe | 송도 컨벤시아 내부 모델  |
 | diamond_sword   | 송도 관련 추가 모델    |
 | iron_pickaxe    | 라스트쉘터 관련 모델    |
