@@ -20,6 +20,7 @@
 		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/object/pane/mice_pane"},
 		{ "predicate": {"custom_model_data":1000004}, "model": "custom/uam/object/entity/camera"},
 		{ "predicate": {"custom_model_data":1000005}, "model": "custom/uam/object/entity/vending_machine/vending_machine"},
-		{ "predicate": {"custom_model_data":1000006}, "model": "custom/uam/object/entity/tuho"}
+		{ "predicate": {"custom_model_data":1000006}, "model": "custom/uam/object/entity/tuho"},
+		{ "predicate": {"custom_model_data":1000007}, "model": "custom/uam/object/entity/crying_child"}
     ]  
 }
