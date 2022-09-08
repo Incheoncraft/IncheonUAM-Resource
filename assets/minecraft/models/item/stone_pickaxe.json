@@ -182,7 +182,7 @@
 		{ "predicate": {"custom_model_data":410120, "cooldown": 0.979167}, "model": "custom/uam/weapon/sub_pistol/sub_pistol_1/base"},
 
 		{ "predicate": {"custom_model_data":411000}, "model": "custom/uam/weapon/sub_pistol/sub_pistol_1_skin_1/base"},
-
+		
 		{ "predicate": {"custom_model_data":420000}, "model": "custom/uam/weapon/sub_pistol/sub_pistol_2/base"},
 		{ "predicate": {"custom_model_data":420110, "cooldown": 0.000000}, "model": "custom/uam/weapon/sub_pistol/sub_pistol_2/base"},
 		{ "predicate": {"custom_model_data":420110, "cooldown": 0.333333}, "model": "custom/uam/weapon/sub_pistol/sub_pistol_2/shoot-00"},
