@@ -165,7 +165,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, 1.5, 0]
+			"translation": [0, -23, 0],
+			"scale": [2.5, 2.5, 2.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
