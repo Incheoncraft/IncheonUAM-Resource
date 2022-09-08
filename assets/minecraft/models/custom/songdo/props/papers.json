@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "custom/songdo/props/papers",
-		"2": "custom/songdo/micezone/logo",
+		"2": "custom/songdo/props/logo",
 		"particle": "custom/songdo/props/papers"
 	},
 	"elements": [

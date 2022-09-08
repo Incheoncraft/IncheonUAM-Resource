@@ -2,8 +2,8 @@
 	"credit": "Made with Kimlikeit",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/songdo/furniture/table_desk_chair",
-		"particle": "custom/songdo/furniture/table_desk_chair"
+		"0": "custom/songdo/furniture/table_chair_desk",
+		"particle": "custom/songdo/furniture/table_chair_desk"
 	},
 	"elements": [
 		{
