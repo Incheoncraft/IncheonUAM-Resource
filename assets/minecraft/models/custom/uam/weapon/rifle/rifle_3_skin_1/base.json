@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "custom/uam/weapon/rifle/rifle_3_skin_1",
-		"particle": "custom/uam/weapon/rifle/rifle_3_skin_1"
+		"0": "custom/uam/weapon/sniper/sniper_2_skin_1",
+		"particle": "custom/uam/weapon/sniper/sniper_2_skin_1"
 	},
 	"elements": [
 		{
