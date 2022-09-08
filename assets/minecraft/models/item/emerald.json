@@ -15,6 +15,14 @@
 		{ "predicate": {"custom_model_data":2000}, "model": "custom/uam/game/enemy/airobot"},
 		{ "predicate": {"custom_model_data":2001}, "model": "custom/uam/game/enemy/airobot_damaged"},
 		
+		{ "predicate": {"custom_model_data":10010}, "model": "custom/uam/equipment/helmet/battle_royal/low"},
+		{ "predicate": {"custom_model_data":10020}, "model": "custom/uam/equipment/helmet/battle_royal/high"},
+		{ "predicate": {"custom_model_data":10021}, "model": "custom/uam/equipment/helmet/battle_royal/high_skin"},
+		{ "predicate": {"custom_model_data":10100}, "model": "custom/uam/equipment/helmet/team/blue"},
+		{ "predicate": {"custom_model_data":10101}, "model": "custom/uam/equipment/helmet/team/blue_skin"},
+		{ "predicate": {"custom_model_data":10200}, "model": "custom/uam/equipment/helmet/team/red"},
+		{ "predicate": {"custom_model_data":10201}, "model": "custom/uam/equipment/helmet/team/red_skin"},
+		
         { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},
 		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/object/entity/punch_bar"},
 		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/object/pane/mice_pane"},

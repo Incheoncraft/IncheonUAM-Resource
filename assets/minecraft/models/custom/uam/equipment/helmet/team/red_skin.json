@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/uam/equipment/helmet_1_skin_1",
-		"particle": "custom/uam/equipment/helmet_1_skin_1"
+		"0": "custom/uam/equipment/helmet/team/red_skin",
+		"particle": "custom/uam/equipment/helmet/team/red_skin"
 	},
 	"elements": [
 		{
