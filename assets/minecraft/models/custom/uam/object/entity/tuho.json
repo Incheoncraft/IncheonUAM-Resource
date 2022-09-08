@@ -190,6 +190,9 @@
 		}
 	],
 	"display": {
+		"head": {
+			"scale": [3, 3, 3]
+		},
 		"ground": {
 			"translation": [0, 5.25, 0]
 		},
