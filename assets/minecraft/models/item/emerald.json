@@ -22,6 +22,13 @@
 		{ "predicate": {"custom_model_data":10101}, "model": "custom/uam/equipment/helmet/team/blue_skin"},
 		{ "predicate": {"custom_model_data":10200}, "model": "custom/uam/equipment/helmet/team/red"},
 		{ "predicate": {"custom_model_data":10201}, "model": "custom/uam/equipment/helmet/team/red_skin"},
+
+		{ "predicate": {"custom_model_data":20000}, "model": "custom/uam/game/item/uam_propeller"},
+		{ "predicate": {"custom_model_data":20001}, "model": "custom/uam/game/item/uam_tire"},
+		{ "predicate": {"custom_model_data":20002}, "model": "custom/uam/game/item/uam_motor"},
+		{ "predicate": {"custom_model_data":20003}, "model": "custom/uam/game/item/uam_battery"},
+		{ "predicate": {"custom_model_data":20010}, "model": "custom/uam/game/item/med_box"},
+		{ "predicate": {"custom_model_data":20011}, "model": "custom/uam/game/item/med_pouch"},
 		
         { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},
 		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/object/entity/punch_bar"},

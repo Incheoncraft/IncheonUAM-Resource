@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/uam/game/item/uam_tire",
+		"particle": "custom/uam/game/item/uam_tire"
+	},
+	"elements": [
+		{
+			"from": [6, 1, 4],
+			"to": [10, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, -10, -2]},
+			"faces": {
+				"north": {"uv": [5, 8, 7, 11.5], "texture": "#0"},
+				"east": {"uv": [4, 0, 7.5, 3.5], "texture": "#0"},
+				"south": {"uv": [7.5, 8, 9.5, 11.5], "texture": "#0"},
+				"west": {"uv": [4, 4, 7.5, 7.5], "texture": "#0"},
+				"up": {"uv": [12, 11.5, 10, 8], "texture": "#0"},
+				"down": {"uv": [12.5, 0, 10.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.25, 1.25, 4.25],
+			"to": [9.75, 7.75, 10.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.75, -9.75, -1.75]},
+			"faces": {
+				"north": {"uv": [0, 8, 2, 11.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.5, 3.5], "texture": "#0"},
+				"south": {"uv": [8, 0, 10, 3.5], "texture": "#0"},
+				"west": {"uv": [0, 4, 3.5, 7.5], "texture": "#0"},
+				"up": {"uv": [4.5, 11.5, 2.5, 8], "texture": "#0"},
+				"down": {"uv": [10, 4, 8, 7.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [87.99, -13.4, -35.1],
+			"translation": [0, 1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [87.99, -13.4, -35.1],
+			"translation": [0, 1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 33, -25.25],
+			"translation": [2.75, 2.75, -4.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 33, -25.25],
+			"translation": [2.75, 2.75, -4.5]
+		},
+		"ground": {
+			"rotation": [4.13, -1.46, -39.22],
+			"translation": [2, 4.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [28.54, 55.73, -75.93],
+			"translation": [2.25, 1.75, 0]
+		},
+		"head": {
+			"translation": [11.75, -34.25, 1],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"rotation": [-20.86, -27.15, -39.85],
+			"translation": [1.25, 0, -4.25]
+		}
+	}
+}
