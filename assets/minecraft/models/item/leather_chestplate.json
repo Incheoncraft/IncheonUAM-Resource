@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+ 
+    "overrides":[
+   
+        {"predicate": {"custom_model_data":10010}, "model":"custom/uam/equipment/chestplate/battle_royal/low"},
+        {"predicate": {"custom_model_data":10020}, "model":"custom/uam/equipment/chestplate/battle_royal/high"},
+        {"predicate": {"custom_model_data":10021}, "model":"custom/uam/equipment/chestplate/battle_royal/high_skin"},
+        {"predicate": {"custom_model_data":10022}, "model":"custom/uam/equipment/chestplate/battle_royal/lastshelter"},
+
+        {"predicate": {"custom_model_data":10100}, "model":"custom/uam/equipment/chestplate/team/blue"},
+        {"predicate": {"custom_model_data":10101}, "model":"custom/uam/equipment/chestplate/team/blue_skin"},
+        {"predicate": {"custom_model_data":10200}, "model":"custom/uam/equipment/chestplate/team/red"},
+        {"predicate": {"custom_model_data":10201}, "model":"custom/uam/equipment/chestplate/team/red_skin"}
+
+    ]
+}

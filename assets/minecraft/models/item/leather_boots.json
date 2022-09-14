@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots",
+        "layer1": "item/leather_boots_overlay"
+    },
+ 
+    "overrides":[
+   
+        {"predicate": {"custom_model_data":10010}, "model":"custom/uam/equipment/boots/battle_royal/low"},
+        {"predicate": {"custom_model_data":10020}, "model":"custom/uam/equipment/boots/battle_royal/high"},
+        {"predicate": {"custom_model_data":10021}, "model":"custom/uam/equipment/boots/battle_royal/high_skin"},
+        {"predicate": {"custom_model_data":10022}, "model":"custom/uam/equipment/boots/battle_royal/lastshelter"},
+
+        {"predicate": {"custom_model_data":10100}, "model":"custom/uam/equipment/boots/team/blue"},
+        {"predicate": {"custom_model_data":10101}, "model":"custom/uam/equipment/boots/team/blue_skin"},
+        {"predicate": {"custom_model_data":10200}, "model":"custom/uam/equipment/boots/team/red"},
+        {"predicate": {"custom_model_data":10201}, "model":"custom/uam/equipment/boots/team/red_skin"}
+
+    ]
+}
