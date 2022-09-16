@@ -1,5 +1,5 @@
 {
-"parent":"custom/uam/weapon/sub_shotgun/sub_shotgun/sub_shotgun_1/base",
+"parent":"custom/uam/weapon/sub_shotgun/sub_shotgun_1/base",
 "display":{
 "firstperson_righthand":{
 "rotation":[-11.5,6.0,8.0],
