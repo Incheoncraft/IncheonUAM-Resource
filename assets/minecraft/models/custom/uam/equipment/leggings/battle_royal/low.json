@@ -1,0 +1,6 @@
+{
+	"parent": "custom/uam/equipment/equipment_icon_template",
+	"textures": {
+		"0": "custom/uam/equipment/leggings/battle_royal/low"
+	}
+}
