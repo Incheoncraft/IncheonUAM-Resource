@@ -8,6 +8,7 @@
 		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/decoration/angel_ring" },
 		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/decoration/circle_glasses" },
 		{ "predicate": {"custom_model_data":1000004}, "model": "custom/uam/decoration/dots_glasses" },
-		{ "predicate": {"custom_model_data":1000005}, "model": "custom/uam/decoration/headpones" }
+		{ "predicate": {"custom_model_data":1000005}, "model": "custom/uam/decoration/headpones" },
+		{ "predicate": {"custom_model_data":1000006}, "model": "custom/uam/decoration/back/drone" }
     ]
 }
