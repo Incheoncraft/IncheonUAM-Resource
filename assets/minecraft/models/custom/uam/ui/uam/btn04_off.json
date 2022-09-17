@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/uam/ui/uam/1/button_4_off_1",
+		"particle": "custom/uam/ui/uam/1/button_4_off_1"
+	},
+	"elements": [
+		{
+			"from": [-16, -15, 8],
+			"to": [32, 31.3, 8],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [13, 9, 80],
+			"scale": [1.18, 1.18, 1.18]
+		}
+	}
+}

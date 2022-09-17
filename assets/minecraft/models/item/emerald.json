@@ -14,7 +14,7 @@
 		
 		{ "predicate": {"custom_model_data":2000}, "model": "custom/uam/game/enemy/airobot"},
 		{ "predicate": {"custom_model_data":2001}, "model": "custom/uam/game/enemy/airobot_damaged"},
-		
+
 		{ "predicate": {"custom_model_data":10010}, "model": "custom/uam/equipment/helmet/battle_royal/low"},
 		{ "predicate": {"custom_model_data":10020}, "model": "custom/uam/equipment/helmet/battle_royal/high"},
 		{ "predicate": {"custom_model_data":10021}, "model": "custom/uam/equipment/helmet/battle_royal/high_skin"},
@@ -56,6 +56,38 @@
 		{ "predicate": {"custom_model_data":1000018}, "model": "custom/uam/ui/violin/alpha_g"},
 		{ "predicate": {"custom_model_data":1000019}, "model": "custom/uam/ui/violin/alpha_d"},
 		{ "predicate": {"custom_model_data":1000020}, "model": "custom/uam/ui/violin/alpha_a"},
-		{ "predicate": {"custom_model_data":1000021}, "model": "custom/uam/ui/violin/alpha_e"}
+		{ "predicate": {"custom_model_data":1000021}, "model": "custom/uam/ui/violin/alpha_e"},
+
+		{ "predicate": {"custom_model_data":2000011}, "model": "custom/uam/ui/bus/btn01_off"},
+		{ "predicate": {"custom_model_data":2000012}, "model": "custom/uam/ui/bus/btn01_on"},
+		{ "predicate": {"custom_model_data":2000013}, "model": "custom/uam/ui/bus/btn02_off"},
+		{ "predicate": {"custom_model_data":2000014}, "model": "custom/uam/ui/bus/btn02_on"},
+		{ "predicate": {"custom_model_data":2000015}, "model": "custom/uam/ui/bus/btn03_off"},
+		{ "predicate": {"custom_model_data":2000016}, "model": "custom/uam/ui/bus/btn03_on"},
+		{ "predicate": {"custom_model_data":2000017}, "model": "custom/uam/ui/bus/btn04_off"},
+		{ "predicate": {"custom_model_data":2000018}, "model": "custom/uam/ui/bus/btn04_on"},
+		{ "predicate": {"custom_model_data":2000019}, "model": "custom/uam/ui/bus/btn05_off"},
+		{ "predicate": {"custom_model_data":2000020}, "model": "custom/uam/ui/bus/btn05_on"},
+
+		{ "predicate": {"custom_model_data":2000021}, "model": "custom/uam/ui/subway/btn01_off"},
+		{ "predicate": {"custom_model_data":2000022}, "model": "custom/uam/ui/subway/btn01_on"},
+		{ "predicate": {"custom_model_data":2000023}, "model": "custom/uam/ui/subway/btn02_off"},
+		{ "predicate": {"custom_model_data":2000024}, "model": "custom/uam/ui/subway/btn02_on"},
+
+		{ "predicate": {"custom_model_data":2000031}, "model": "custom/uam/ui/uam/btn01_off"},
+		{ "predicate": {"custom_model_data":2000032}, "model": "custom/uam/ui/uam/btn01_on"},
+		{ "predicate": {"custom_model_data":2000033}, "model": "custom/uam/ui/uam/btn02_off"},
+		{ "predicate": {"custom_model_data":2000034}, "model": "custom/uam/ui/uam/btn02_on"},
+		{ "predicate": {"custom_model_data":2000035}, "model": "custom/uam/ui/uam/btn03_off"},
+		{ "predicate": {"custom_model_data":2000036}, "model": "custom/uam/ui/uam/btn03_on"},
+		{ "predicate": {"custom_model_data":2000037}, "model": "custom/uam/ui/uam/btn04_off"},
+		{ "predicate": {"custom_model_data":2000038}, "model": "custom/uam/ui/uam/btn04_on"},
+		{ "predicate": {"custom_model_data":2000039}, "model": "custom/uam/ui/uam/btn05_off"},
+		{ "predicate": {"custom_model_data":2000040}, "model": "custom/uam/ui/uam/btn05_on"},
+		{ "predicate": {"custom_model_data":2000041}, "model": "custom/uam/ui/uam/btn06_off"},
+		{ "predicate": {"custom_model_data":2000042}, "model": "custom/uam/ui/uam/btn06_on"}
+
+		
+
     ]  
 }

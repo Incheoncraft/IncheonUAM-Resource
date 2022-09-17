@@ -1,0 +1,6 @@
+{
+	"parent": "custom/uam/ui/uam/btn04_off",
+	"textures": {
+		"0": "custom/uam/ui/uam/1/button_4_on_1"
+	}
+}
