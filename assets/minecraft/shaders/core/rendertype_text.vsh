@@ -35,13 +35,13 @@ void main() {
     
     float lum = max(Color.r, max(Color.g, Color.b));
 
-    if (Pos.z == 0 && ProjMat[3][0] == -1 && lum > 0.4)
-    {
-        vec2 corner = corners[gl_VertexID % 4];
-        Pos.xy += corner;
-        texCoord0 += corner / textureSize(Sampler0, 0);
-        shadow = 1;
-    }
+    // if (Pos.z == 0 && ProjMat[3][0] == -1 && lum > 0.4)
+    // {
+    //     vec2 corner = corners[gl_VertexID % 4];
+    //     Pos.xy += corner;
+    //     texCoord0 += corner / textureSize(Sampler0, 0);
+    //     shadow = 1;
+    // }
 
 
     // vec3 shadowColor = vec3(0.248, 0.248, 0.248);

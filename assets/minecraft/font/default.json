@@ -105,14 +105,13 @@
         {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_fill.png","ascent": 0,"height": 4, "chars":["\u1001"]},
         {"type":"bitmap","file":"minecraft:font/ui/tuho/mid_unfill.png","ascent": 0,"height": 4, "chars":["\u1004"]},
 
-
-
         {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/main.png","ascent": -10,"height": 8, "chars":["\u1006\u1007"]},
         {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/punch.png","ascent": -6,"height": 8, "chars":["\u1008"]},
-        
         {"type":"bitmap","file":"minecraft:font/ui/minigame/punch/count_icon.png","ascent": -20,"height": 8, "chars":["\u1009\u100A"]},
 
-
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg01.png", "ascent": 60, "height": 61, "chars": ["\u1010\u1011\u1012"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg02.png", "ascent": 3, "height": 61, "chars": ["\u1013\u1014\u1015"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg03.png", "ascent": -58, "height": 61, "chars": ["\u1016\u1017\u1018"]},
 
 
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}

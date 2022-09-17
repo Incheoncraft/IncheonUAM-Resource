@@ -43,6 +43,19 @@
 		{ "predicate": {"custom_model_data":1000006}, "model": "custom/uam/object/entity/tuho"},
 		{ "predicate": {"custom_model_data":1000007}, "model": "custom/uam/object/entity/crying_child"},
 		{ "predicate": {"custom_model_data":1000008}, "model": "custom/uam/object/item/cocktail"},
-		{ "predicate": {"custom_model_data":1000009}, "model": "custom/uam/object/entity/sand_castle"}
+		{ "predicate": {"custom_model_data":1000009}, "model": "custom/uam/object/entity/sand_castle"},
+
+		{ "predicate": {"custom_model_data":1000010}, "model": "custom/uam/ui/violin/pack01"},
+		{ "predicate": {"custom_model_data":1000011}, "model": "custom/uam/ui/violin/pack02"},
+		{ "predicate": {"custom_model_data":1000012}, "model": "custom/uam/ui/violin/pack03"},
+		{ "predicate": {"custom_model_data":1000013}, "model": "custom/uam/ui/violin/pack04"},
+		{ "predicate": {"custom_model_data":1000014}, "model": "custom/uam/ui/violin/tuner01"},
+		{ "predicate": {"custom_model_data":1000015}, "model": "custom/uam/ui/violin/tuner02"},
+		{ "predicate": {"custom_model_data":1000016}, "model": "custom/uam/ui/violin/tuner03"},
+		{ "predicate": {"custom_model_data":1000017}, "model": "custom/uam/ui/violin/tuner04"},
+		{ "predicate": {"custom_model_data":1000018}, "model": "custom/uam/ui/violin/alpha_g"},
+		{ "predicate": {"custom_model_data":1000019}, "model": "custom/uam/ui/violin/alpha_d"},
+		{ "predicate": {"custom_model_data":1000020}, "model": "custom/uam/ui/violin/alpha_a"},
+		{ "predicate": {"custom_model_data":1000021}, "model": "custom/uam/ui/violin/alpha_e"}
     ]  
 }

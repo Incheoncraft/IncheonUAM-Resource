@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "custom/uam/ui/violin/pack01"
+	},
+	"display": {
+		"gui": {
+			"translation": [3.25, -0.75, 0],
+			"scale": [1.47461, 1.47461, 1.47461]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "custom/uam/ui/violin/alpha_g",
+	"textures": {
+		"layer0": "custom/uam/ui/violin/e"
+	}
+}
