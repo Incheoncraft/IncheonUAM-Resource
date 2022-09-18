@@ -154,5 +154,6 @@
   "chat.tag.filtered": "",
   "chat.tag.modified": "",
   "chat.tag.modified.original": "",
-  "chat.tag.not_secure": ""
+  "chat.tag.not_secure": "",
+  "chat.square_brackets": "%s"
 }

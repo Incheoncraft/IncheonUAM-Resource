@@ -148,12 +148,13 @@
   "options.particles.all": "§aAll",
   "options.particles.decreased": "§cDecreased",
   "options.particles.minimal": "§cMinimal",
-  "container.inventory": "§fInventory",
+  "container.inventory": "",
   "container.crafting": "",
   "multiplayer.unsecureserver.toast.title": "",
   "multiplayer.unsecureserver.toast": "",
   "chat.tag.filtered": "",
   "chat.tag.modified": "",
   "chat.tag.modified.original": "",
-  "chat.tag.not_secure": ""
+  "chat.tag.not_secure": "",
+  "chat.square_brackets": "%s"
 }
