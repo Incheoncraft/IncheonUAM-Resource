@@ -147,7 +147,7 @@
   "options.particles.all": "§a모두",
   "options.particles.decreased": "§c적게",
   "options.particles.minimal": "§c최소",
-  "container.inventory": "§f보관함",
+  "container.inventory": "",
   "container.crafting": "",
   "multiplayer.unsecureserver.toast": "",
   "multiplayer.unsecureserver.toast.title": "",
