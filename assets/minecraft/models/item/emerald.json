@@ -39,6 +39,7 @@
 		{ "predicate": {"custom_model_data":100002}, "model": "custom/uam/object/entity/vending_machine/drink_2"},
 		{ "predicate": {"custom_model_data":100003}, "model": "custom/uam/object/entity/vending_machine/drink_3"},
 		{ "predicate": {"custom_model_data":100004}, "model": "custom/uam/object/entity/vending_machine/drink_4"},
+		{ "predicate": {"custom_model_data":100005}, "model": "custom/uam/object/item/sand"},
 		
 		{ "predicate": {"custom_model_data":1000000}, "model": "custom/uam/object/item/violin"},
         { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},

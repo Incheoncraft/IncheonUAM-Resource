@@ -129,6 +129,10 @@
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg01.png", "ascent": -28, "height": 64, "chars": ["\u1044\u1045\u1046\u1047"]},
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg02.png", "ascent": -92, "height": 64, "chars": ["\u1048\u1049\u104A\u104B"]},
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg03.png", "ascent": -156, "height": 64, "chars": ["\u104C\u104D\u104E\u104F"]},
+		
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg00.png", "ascent": 60, "height": 61, "chars": ["\u1050\u1051\u1052\u1053"]},
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg01.png", "ascent": 3, "height": 61, "chars": ["\u1054\u1055\u1056\u1057"]},
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg02.png", "ascent": -58, "height": 61, "chars": ["\u1058\u1059\u105A\u105B"]},
 
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
 	]
