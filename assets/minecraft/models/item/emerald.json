@@ -35,6 +35,7 @@
 		{ "predicate": {"custom_model_data":20010}, "model": "custom/uam/game/item/med_box"},
 		{ "predicate": {"custom_model_data":20011}, "model": "custom/uam/game/item/med_pouch"},
 		
+		{ "predicate": {"custom_model_data":1000000}, "model": "custom/uam/object/item/violin"},
         { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},
 		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/object/entity/punch_bar"},
 		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/object/pane/mice_pane"},
