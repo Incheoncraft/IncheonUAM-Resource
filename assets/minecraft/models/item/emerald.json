@@ -35,6 +35,11 @@
 		{ "predicate": {"custom_model_data":20010}, "model": "custom/uam/game/item/med_box"},
 		{ "predicate": {"custom_model_data":20011}, "model": "custom/uam/game/item/med_pouch"},
 		
+		{ "predicate": {"custom_model_data":100001}, "model": "custom/uam/object/entity/vending_machine/drink_1"},
+		{ "predicate": {"custom_model_data":100002}, "model": "custom/uam/object/entity/vending_machine/drink_2"},
+		{ "predicate": {"custom_model_data":100003}, "model": "custom/uam/object/entity/vending_machine/drink_3"},
+		{ "predicate": {"custom_model_data":100004}, "model": "custom/uam/object/entity/vending_machine/drink_4"},
+		
 		{ "predicate": {"custom_model_data":1000000}, "model": "custom/uam/object/item/violin"},
         { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/object/entity/punch_machine"},
 		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/object/entity/punch_bar"},
