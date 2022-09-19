@@ -155,5 +155,7 @@
   "chat.tag.modified": "",
   "chat.tag.modified.original": "",
   "chat.tag.not_secure": "",
-  "chat.square_brackets": "%s"
+  "chat.square_brackets": "%s",
+  "advancements.toast.task": "새로운 퀘스트가 등록되었습니다!",
+  "advancements.toast.goal": "퀘스트 완료!"
 }
