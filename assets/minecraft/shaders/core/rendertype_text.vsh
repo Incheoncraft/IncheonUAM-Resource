@@ -48,7 +48,7 @@ void main() {
     if(Position.z == 0.0) {
         // shadow remover - action bar, title, bossbar.. etc
         
-        if((Position.y >= ScrSize.y - 64) && lessThan(vertexColor.rgb, shadowColor) == bvec3(true)) {
+        if((Position.y >= ScrSize.y - 64 || Position.y <= 64) && lessThan(vertexColor.rgb, shadowColor) == bvec3(true)) {
             Pos.x += ScrSize.x * 100;
         }
         else 
