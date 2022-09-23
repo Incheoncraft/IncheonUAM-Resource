@@ -6,7 +6,7 @@
         }},
         {
             "type": "bitmap",
-            "file": "minecraft:font/ascii_uppercase.png",
+            "file": "minecraft:font/ascii.png",
             "ascent": 4,
             "height": 8,
             "chars": [
