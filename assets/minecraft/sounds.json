@@ -30,7 +30,9 @@
 "custom.sfx.robot.damage.3": {"sounds": [{"name":"custom/sfx/entity/robot_damage_3"}]},
 "custom.sfx.robot.damage.4": {"sounds": [{"name":"custom/sfx/entity/robot_damage_4"}]},
 "custom.sfx.robot.attack": {"sounds": [{"name":"custom/sfx/entity/robot_attack"}]},
-"custom.sfx.robot.death": {"sounds": [{"name":"custom/sfx/entity/robot_death"}]}
+"custom.sfx.robot.death": {"sounds": [{"name":"custom/sfx/entity/robot_death"}]},
+
+"custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm"}]}
 
 
 }
