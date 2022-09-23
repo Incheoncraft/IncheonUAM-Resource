@@ -8,6 +8,7 @@
 "custom.sfx.general.hit": {"sounds": [{"name":"custom/sfx/general/hit"}]},
 "custom.sfx.general.hit_head": {"sounds": [{"name":"custom/sfx/general/hit_head"}]},
 "custom.sfx.general.kill": {"sounds": [{"name":"custom/sfx/general/kill"}]},
+"custom.sfx.general.death": {"sounds": [{"name":"custom/sfx/general/death"}]},
 
 "custom.sfx.weapon.shoot_1": {"sounds": [{"name":"custom/sfx/weapon/shoot_1"}]},
 "custom.sfx.weapon.explode": {"sounds": [{"name":"custom/sfx/weapon/explode"}]},
