@@ -32,7 +32,7 @@
 "custom.sfx.robot.attack": {"sounds": [{"name":"custom/sfx/entity/robot_attack"}]},
 "custom.sfx.robot.death": {"sounds": [{"name":"custom/sfx/entity/robot_death"}]},
 
-"custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm"}]}
+"custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]}
 
 
 }
