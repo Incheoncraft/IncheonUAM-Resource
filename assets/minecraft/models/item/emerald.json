@@ -92,7 +92,9 @@
 		{ "predicate": {"custom_model_data":2000039}, "model": "custom/uam/ui/uam/btn05_off"},
 		{ "predicate": {"custom_model_data":2000040}, "model": "custom/uam/ui/uam/btn05_on"},
 		{ "predicate": {"custom_model_data":2000041}, "model": "custom/uam/ui/uam/btn06_off"},
-		{ "predicate": {"custom_model_data":2000042}, "model": "custom/uam/ui/uam/btn06_on"}
+		{ "predicate": {"custom_model_data":2000042}, "model": "custom/uam/ui/uam/btn06_on"},
+
+		{ "predicate": {"custom_model_data":2000100}, "model": "custom/uam/ui/extra/left_and_right"}
 
 		
 

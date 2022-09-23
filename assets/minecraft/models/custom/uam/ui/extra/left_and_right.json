@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom/uam/ui/extra/left_and_right"
+  }
+}

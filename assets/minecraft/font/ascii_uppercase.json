@@ -12,6 +12,7 @@
             "type": "bitmap",
             "file": "minecraft:font/ascii_uppercase.png",
             "ascent": 7,
+            "height": 8,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",

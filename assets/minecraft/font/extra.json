@@ -7,7 +7,7 @@
         }},
 		{"type":"bitmap","file":"minecraft:font/white.png",             "ascent":512,"height":1024,"chars":["\u0005"]},
         {"type":"bitmap","file":"minecraft:font/black.png",             "ascent":512,"height":1024,"chars":["\u0001"]},
-        {"type":"bitmap","file":"minecraft:font/white_vertical_bar.png","ascent":192,"height":256 ,"chars":["\u0002"]},
+        {"type":"bitmap","file":"minecraft:font/white_vertical_bar.png","ascent":256,"height":256 ,"chars":["\u0002"]},
         {"type":"bitmap","file":"minecraft:font/white_vertical_bar.png","ascent":0  ,"height":256 ,"chars":["\u0003"]},
         {"type":"bitmap","file":"minecraft:font/white_flag_bar.png",    "ascent":-9 ,"height":16  ,"chars":["\u0004"]},
         {"type":"bitmap","file":"minecraft:font/flag.png","ascent":7,"height":16,"chars":["\u0010\u0011\u0012\u0013","\u0014\u0000\u0000\u0000"]},
@@ -15,7 +15,7 @@
         {"type":"bitmap","file":"minecraft:font/battleroyal_bar.png","ascent":-9,"height":16,"chars":["\u0021"]},
         {"type":"bitmap","file":"minecraft:font/battleroyal_human.png","ascent":7,"height":16,"chars":["\u0022\u0023"]},
 
-        {"type":"bitmap","file":"minecraft:font/ui/game/tdm_score.png","ascent":8,"height":32,"chars":["\u0030"]},
+        {"type":"bitmap","file":"minecraft:font/ui/game/tdm_score.png","ascent":8,"height":32,"chars":["\u0030","\u0031"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/game/ctf_time.png","ascent":0,"height":32,"chars":["\u0040"]},
         {"type":"bitmap","file":"minecraft:font/ui/game/ctf_bar.png","ascent":0,"height":32,"chars":["\u0041","\u0042","\u0043"]},
