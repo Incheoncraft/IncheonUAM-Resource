@@ -3,7 +3,7 @@
 "display":{
 "firstperson_righthand":{
 "translation":[-9,9.35,5.5],
-"scale":[1,1,0.72]
+"scale":[1,1,1]
 },
 "thirdperson_lefthand":{
 "translation":[0,-0.25,-2.25],

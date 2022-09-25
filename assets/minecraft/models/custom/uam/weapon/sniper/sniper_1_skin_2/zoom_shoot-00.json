@@ -2,8 +2,8 @@
 "parent":"custom/uam/weapon/sniper/sniper_1_skin_2/zoom-02",
 "display":{
 "firstperson_righthand":{
-"translation":[-9.0,9.35,6.333333333333333],
-"scale":[1.0,1.0,0.8133333333333334]
+"translation":[-9.0,9.35,7.333333333333333],
+"scale":[1,1,0.5]
 },
 "thirdperson_lefthand":{
 "translation":[0.0,-0.25,-2.25],
