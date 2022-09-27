@@ -5,11 +5,11 @@
                 " ": 4,
                 "\u200c": 0
         }},
-		{"type":"bitmap","file":"minecraft:font/white.png",             "ascent":512,"height":1024,"chars":["\u0005"]},
         {"type":"bitmap","file":"minecraft:font/black.png",             "ascent":512,"height":1024,"chars":["\u0001"]},
         {"type":"bitmap","file":"minecraft:font/white_vertical_bar.png","ascent":256,"height":256 ,"chars":["\u0002"]},
         {"type":"bitmap","file":"minecraft:font/white_vertical_bar.png","ascent":0  ,"height":256 ,"chars":["\u0003"]},
         {"type":"bitmap","file":"minecraft:font/white_flag_bar.png",    "ascent":-9 ,"height":16  ,"chars":["\u0004"]},
+        {"type":"bitmap","file":"minecraft:font/white.png",             "ascent":512,"height":1024,"chars":["\u0005"]},
         {"type":"bitmap","file":"minecraft:font/flag.png","ascent":7,"height":16,"chars":["\u0010\u0011\u0012\u0013","\u0014\u0000\u0000\u0000"]},
 
         {"type":"bitmap","file":"minecraft:font/battleroyal_bar.png","ascent":-9,"height":16,"chars":["\u0021"]},
@@ -43,6 +43,9 @@
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/guild_select.png",        "ascent":99,"height":192,"chars":["\u00C6"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/decoration_select.png",   "ascent":99,"height":192,"chars":["\u00C7"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/quit_button_select.png",  "ascent":99,"height":192,"chars":["\u00C8"]},
+
+        {"type":"bitmap","file":"minecraft:font/ui/tutorial/logo_title.png",  "ascent":24,"height":32,"chars":["\u0100\u0101"]},
+        {"type":"bitmap","file":"minecraft:font/ui/tutorial/logo_chat.png",   "ascent":8,"height":64,"chars":["\u0102"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/hud/left/background.png",                    "ascent":-6,"height":64,"chars":["\u1000"]},
         {"type":"bitmap","file":"minecraft:font/ui/hud/left/armor.png",                         "ascent":-46,"height":16,"chars":["\u1001\u1002\u1003\u1004","\u1005\u1006\u1007\u1008"]},
