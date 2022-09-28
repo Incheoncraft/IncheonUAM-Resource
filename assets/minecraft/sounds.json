@@ -11,6 +11,7 @@
 "custom.sfx.general.death": {"sounds": [{"name":"custom/sfx/general/death"}]},
 "custom.sfx.general.hit_wall": {"sounds": [{"name":"custom/sfx/general/hit_wall"}]},
 "custom.sfx.general.hit_vehicle": {"sounds": [{"name":"custom/sfx/general/hit_vehicle"}]},
+"custom.sfx.general.walkie_talkie": {"sounds": [{"name":"custom/sfx/general/walkie_talkie"}]},
 
 "custom.sfx.weapon.shoot_1": {"sounds": [{"name":"custom/sfx/weapon/shoot_1"}]},
 "custom.sfx.weapon.explode": {"sounds": [{"name":"custom/sfx/weapon/explode"}]},
