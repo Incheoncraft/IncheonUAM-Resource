@@ -39,5 +39,6 @@
 "custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.brstart": {"sounds": [{"name":"custom/bgm/brstart","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.tutorial": {"sounds": [{"name":"custom/bgm/tutorial","stream":true,"preload":true,"attenuation_distance":16384}]}
+"custom.bgm.range50": {"sounds": [{"name":"custom/bgm/range50","stream":true,"preload":true,"attenuation_distance":16384}]},
 
 }
