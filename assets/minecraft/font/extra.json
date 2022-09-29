@@ -112,6 +112,7 @@
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/maintenance_5.png",          "ascent":13,"height":256,"chars":["\u4014"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/maintenance_6.png",          "ascent":13,"height":256,"chars":["\u4015"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/my_info.png",                "ascent":31,"height":256,"chars":["\u4020"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/achievement.png",            "ascent":13,"height":256,"chars":["\u4021"]},
 
         {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-3,    "chars":["\uF801"]},
         {"type":"bitmap","file":"space:font/space_nosplit.png","ascent":-32768,"height":-4,    "chars":["\uF802"]},
