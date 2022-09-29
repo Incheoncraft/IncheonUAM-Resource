@@ -29,6 +29,7 @@
         ]},
 
         {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":2,"height":8,"chars":["\uF000"]},
+        {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":10,"height":16,"chars":["\uF001"]},
         {"type":"bitmap","file":"minecraft:font/shift.png","ascent":7,"height":8,"chars":["㈓"]},
         {"type":"bitmap","file":"minecraft:font/ctrl.png","ascent":7,"height":8,"chars":["㈔"]},
         
@@ -112,6 +113,25 @@
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg01.png", "ascent": 60, "height": 61, "chars": ["\u1010\u1011\u1012"]},
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg02.png", "ascent": 3, "height": 61, "chars": ["\u1013\u1014\u1015"]},
         {"type": "bitmap", "file": "minecraft:custom/uam/ui/violin/bg03.png", "ascent": -58, "height": 61, "chars": ["\u1016\u1017\u1018"]},
+
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/bus/bg/bg00.png", "ascent": 36, "height": 64, "chars": ["\u1020\u1021\u1022\u1023"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/bus/bg/bg01.png", "ascent": -28, "height": 64, "chars": ["\u1024\u1025\u1026\u1027"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/bus/bg/bg02.png", "ascent": -92, "height": 64, "chars": ["\u1028\u1029\u102A\u102B"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/bus/bg/bg03.png", "ascent": -156, "height": 64, "chars": ["\u102C\u102D\u102E\u102F"]},
+
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/subway/bg/bg00.png", "ascent": 36, "height": 64, "chars": ["\u1030\u1031\u1032\u1033"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/subway/bg/bg01.png", "ascent": -28, "height": 64, "chars": ["\u1034\u1035\u1036\u1037"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/subway/bg/bg02.png", "ascent": -92, "height": 64, "chars": ["\u1038\u1039\u103A\u103B"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/subway/bg/bg03.png", "ascent": -156, "height": 64, "chars": ["\u103C\u103D\u103E\u103F"]},
+
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg00.png", "ascent": 36, "height": 64, "chars": ["\u1040\u1041\u1042\u1043"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg01.png", "ascent": -28, "height": 64, "chars": ["\u1044\u1045\u1046\u1047"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg02.png", "ascent": -92, "height": 64, "chars": ["\u1048\u1049\u104A\u104B"]},
+        {"type": "bitmap", "file": "minecraft:custom/uam/ui/uam/bg/bg03.png", "ascent": -156, "height": 64, "chars": ["\u104C\u104D\u104E\u104F"]},
+		
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg00.png", "ascent": 60, "height": 61, "chars": ["\u1050\u1051\u1052\u1053"]},
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg01.png", "ascent": 3, "height": 61, "chars": ["\u1054\u1055\u1056\u1057"]},
+		{"type": "bitmap", "file": "minecraft:custom/uam/ui/sandcastle/bg/bg02.png", "ascent": -58, "height": 61, "chars": ["\u1058\u1059\u105A\u105B"]},
 
         {"type": "legacy_unicode","sizes": "minecraft:font/glyph_sizes.bin","template": "minecraft:font/unicode_page_%s.png"}
 	]
