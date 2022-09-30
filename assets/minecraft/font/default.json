@@ -28,8 +28,13 @@
             "\uE423\uE424\u0000"
         ]},
 
-        {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":2,"height":8,"chars":["\uF000"]},
-        {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":10,"height":16,"chars":["\uF001"]},
+        {"type":"bitmap","file":"minecraft:font/diamond.png","ascent":2,"height":8,"chars":["\uF000\u0000","\uF002\uF003"]},
+        {"type":"bitmap","file":"minecraft:font/directional_diamond.png","ascent":11,"height":16,"chars":[
+                "\uF001\u0000\u0000\u0000",
+                "\uF011\uF013\uF015\uF017",
+                "\uF012\uF014\uF016\uF018",
+                "\u0000\u0000\u0000\u0000"
+        ]},
         {"type":"bitmap","file":"minecraft:font/shift.png","ascent":7,"height":8,"chars":["㈓"]},
         {"type":"bitmap","file":"minecraft:font/ctrl.png","ascent":7,"height":8,"chars":["㈔"]},
         
