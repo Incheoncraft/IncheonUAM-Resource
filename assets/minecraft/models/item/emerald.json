@@ -96,9 +96,10 @@
 		{ "predicate": {"custom_model_data":2000041}, "model": "custom/uam/ui/uam/btn06_off"},
 		{ "predicate": {"custom_model_data":2000042}, "model": "custom/uam/ui/uam/btn06_on"},
 
-		{ "predicate": {"custom_model_data":2000100}, "model": "custom/uam/ui/extra/left_and_right"}
-
+		{ "predicate": {"custom_model_data":2000100}, "model": "custom/uam/ui/extra/left_and_right"},
 		
+		{ "predicate": {"custom_model_data":3000001}, "model": "custom/uam/images/loading/central_park"}
+
 
     ]  
 }
