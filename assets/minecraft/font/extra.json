@@ -33,6 +33,7 @@
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/guild.png",        "ascent":99,"height":192,"chars":["\u00B6"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/decoration.png",   "ascent":99,"height":192,"chars":["\u00B7"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/quit_button.png",  "ascent":99,"height":192,"chars":["\u00B8"]},
+        {"type":"bitmap","file":"minecraft:font/ui/main_menu/spawn_button.png",  "ascent":99,"height":192,"chars":["\u00B9"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/tutorial_select.png",     "ascent":99,"height":192,"chars":["\u00C0"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/multiplay_select.png",    "ascent":99,"height":192,"chars":["\u00C1"]},
@@ -43,11 +44,13 @@
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/guild_select.png",        "ascent":99,"height":192,"chars":["\u00C6"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/decoration_select.png",   "ascent":99,"height":192,"chars":["\u00C7"]},
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/quit_button_select.png",  "ascent":99,"height":192,"chars":["\u00C8"]},
+        {"type":"bitmap","file":"minecraft:font/ui/main_menu/spawn_button_select.png",  "ascent":99,"height":192,"chars":["\u00C9"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/main_menu/tutorial_highlight.png",  "ascent":99,"height":192,"chars":["\u00D0"]},
 
         {"type":"bitmap","file":"minecraft:custom/uam/ui/game/logo_title.png",          "ascent":24,"height":32,"chars":["\u0100\u0101"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/game/logo_chat.png",           "ascent":8,"height":64,"chars":["\u0102"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/game/logo_title_big.png",      "ascent":64,"height":128,"chars":["\u0103\u0104"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/game/tutorial_start.png",      "ascent":7,"height":34,"chars":["\u0110"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/game/tutorial_end.png",        "ascent":7,"height":34,"chars":["\u0111"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/game/tdm_start.png",           "ascent":7,"height":34,"chars":["\u0112"]},
