@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "76db25a8c06c019f225e4280eebba94262",
-		"particle": "76db25a8c06c019f225e4280eebba94262"
+		"0": "custom/uam/decoration/back/angel_wing",
+		"particle": "custom/uam/decoration/back/angel_wing"
 	},
 	"elements": [
 		{

@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "custom/uam/decoration/head/hairbands/cat_hairband",
+		"3": "custom/uam/decoration/head/hairbands/cat_hairband_back"
+	},
+	"elements": [
+		{
+			"from": [-1.9, -2.3, 7],
+			"to": [18.7, 18.8, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 19], "texture": "#missing"},
+				"south": {"uv": [7.01096, 11.9726, 1.44511, 12.90018], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 19], "texture": "#missing"},
+				"up": {"uv": [0, 0, 24, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 24, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [-1.9, -2.3, 7.1],
+			"to": [18.7, 18.8, 7.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 19], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 19], "texture": "#missing"},
+				"up": {"uv": [0, 0, 24, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 24, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [-0.25, 0, -5.5],
+			"scale": [0.99414, 0.95508, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [4.67654, 20.31522, 7.4],
+			"color": 0,
+			"children": []
+		},
+		0,
+		1
+	]
+}

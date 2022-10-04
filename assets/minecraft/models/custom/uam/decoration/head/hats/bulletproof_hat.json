@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "textdure",
-		"particle": "textdure"
+		"0": "custom/uam/decoration/head/hats/bulletproof_hat",
+		"particle": "custom/uam/decoration/head/hats/bulletproof_hat"
 	},
 	"elements": [
 		{

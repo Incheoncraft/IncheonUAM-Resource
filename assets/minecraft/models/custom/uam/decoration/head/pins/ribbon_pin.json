@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "block/hat2",
-		"particle": "block/hat2"
+		"2": "custom/uam/decoration/head/pins/ribbon_pin",
+		"particle": "custom/uam/decoration/head/pins/ribbon_pin"
 	},
 	"elements": [
 		{

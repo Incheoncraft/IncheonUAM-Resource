@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/texture",
-		"particle": "block/texture"
+		"0": "custom/uam/decoration/back/pets/dolphin_baby",
+		"particle": "custom/uam/decoration/back/pets/dolphin_baby"
 	},
 	"elements": [
 		{

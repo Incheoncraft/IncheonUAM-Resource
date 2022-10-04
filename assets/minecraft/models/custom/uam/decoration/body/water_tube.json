@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "text222222ure",
-		"particle": "text222222ure"
+		"0": "custom/uam/decoration/body/water_tube",
+		"particle": "custom/uam/decoration/body/water_tube"
 	},
 	"elements": [
 		{

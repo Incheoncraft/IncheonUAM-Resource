@@ -4,11 +4,55 @@
 		"layer0": "item/gold_ingot"
 	},
 	    "overrides": [
-        { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/decoration/alien_glasses" },
-		{ "predicate": {"custom_model_data":1000002}, "model": "custom/uam/decoration/angel_ring" },
-		{ "predicate": {"custom_model_data":1000003}, "model": "custom/uam/decoration/circle_glasses" },
-		{ "predicate": {"custom_model_data":1000004}, "model": "custom/uam/decoration/dots_glasses" },
-		{ "predicate": {"custom_model_data":1000005}, "model": "custom/uam/decoration/headpones" },
-		{ "predicate": {"custom_model_data":1000006}, "model": "custom/uam/decoration/back/drone" }
+        { "predicate": {"custom_model_data":1000001}, "model": "custom/uam/decoration/head/angel_ring" },
+        { "predicate": {"custom_model_data":1000002}, "model": "custom/uam/decoration/head/fishbowl" },
+        { "predicate": {"custom_model_data":1000003}, "model": "custom/uam/decoration/head/headpones" },
+        { "predicate": {"custom_model_data":1000004}, "model": "custom/uam/decoration/head/mustache" },
+        { "predicate": {"custom_model_data":1000005}, "model": "custom/uam/decoration/head/propellers" },
+        { "predicate": {"custom_model_data":1000006}, "model": "custom/uam/decoration/head/water_balloon" },
+		
+        { "predicate": {"custom_model_data":1000101}, "model": "custom/uam/decoration/head/glasses/alien_glasses" },
+        { "predicate": {"custom_model_data":1000102}, "model": "custom/uam/decoration/head/glasses/circle_glasses" },
+        { "predicate": {"custom_model_data":1000103}, "model": "custom/uam/decoration/head/glasses/dots_glasses" },
+		
+        { "predicate": {"custom_model_data":1000201}, "model": "custom/uam/decoration/head/hairbands/cat_hairband" },
+        { "predicate": {"custom_model_data":1000202}, "model": "custom/uam/decoration/head/hairbands/ic_hairband" },
+        { "predicate": {"custom_model_data":1000203}, "model": "custom/uam/decoration/head/hairbands/panda_hairband" },
+        { "predicate": {"custom_model_data":1000204}, "model": "custom/uam/decoration/head/hairbands/rabbit_hairband" },
+		
+        { "predicate": {"custom_model_data":1000301}, "model": "custom/uam/decoration/head/hats/battle_hat" },
+        { "predicate": {"custom_model_data":1000302}, "model": "custom/uam/decoration/head/hats/bucket_hat" },
+        { "predicate": {"custom_model_data":1000303}, "model": "custom/uam/decoration/head/hats/bulletproof_hat" },
+        { "predicate": {"custom_model_data":1000304}, "model": "custom/uam/decoration/head/hats/straw_hat" },
+		
+        { "predicate": {"custom_model_data":1000401}, "model": "custom/uam/decoration/head/pins/heart_pin" },
+        { "predicate": {"custom_model_data":1000402}, "model": "custom/uam/decoration/head/pins/ribbon_pin" },
+		
+		
+		
+        { "predicate": {"custom_model_data":2000001}, "model": "custom/uam/decoration/body/life_jacket" },
+        { "predicate": {"custom_model_data":2000002}, "model": "custom/uam/decoration/body/water_tube" },
+		
+        { "predicate": {"custom_model_data":2000101}, "model": "custom/uam/decoration/body/badges/heart_badge" },
+        { "predicate": {"custom_model_data":2000102}, "model": "custom/uam/decoration/body/badges/ic_badge" },
+		
+		
+		
+        { "predicate": {"custom_model_data":3000001}, "model": "custom/uam/decoration/back/angel_wing" },
+        { "predicate": {"custom_model_data":3000002}, "model": "custom/uam/decoration/back/backpack" },
+        { "predicate": {"custom_model_data":3000003}, "model": "custom/uam/decoration/back/cape" },
+
+        { "predicate": {"custom_model_data":3000101}, "model": "custom/uam/decoration/back/pets/dolphin_baby" },
+        { "predicate": {"custom_model_data":3000102}, "model": "custom/uam/decoration/back/pets/drone" },
+        { "predicate": {"custom_model_data":3000103}, "model": "custom/uam/decoration/back/pets/seagull_baby" },
+		
+		
+		
+        { "predicate": {"custom_model_data":4000001}, "model": "custom/uam/decoration/riding/board_small" },
+        { "predicate": {"custom_model_data":4000002}, "model": "custom/uam/decoration/riding/board_big" },
+        { "predicate": {"custom_model_data":4000003}, "model": "custom/uam/decoration/riding/kickboard_small" },
+        { "predicate": {"custom_model_data":4000004}, "model": "custom/uam/decoration/riding/kickboard_big" },
+        { "predicate": {"custom_model_data":4000005}, "model": "custom/uam/decoration/riding/car" },
+        { "predicate": {"custom_model_data":4000006}, "model": "custom/uam/decoration/riding/cloud" }
     ]
 }

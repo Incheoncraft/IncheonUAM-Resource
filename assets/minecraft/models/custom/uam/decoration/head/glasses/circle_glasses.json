@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/uam/decoration/circle_glasses",
-		"particle": "custom/uam/decoration/circle_glasses"
+		"0": "custom/uam/decoration/head/glasses/circle_glasses",
+		"particle": "custom/uam/decoration/head/glasses/circle_glasses"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "7",
-		"particle": "7"
+		"0": "custom/uam/decoration/head/hats/straw_hat",
+		"particle": "custom/uam/decoration/head/hats/straw_hat"
 	},
 	"elements": [
 		{
