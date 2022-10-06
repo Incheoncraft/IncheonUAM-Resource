@@ -33,6 +33,10 @@
 "custom.sfx.robot.attack": {"sounds": [{"name":"custom/sfx/entity/robot_attack"}]},
 "custom.sfx.robot.death": {"sounds": [{"name":"custom/sfx/entity/robot_death"}]},
 
+"custom.sfx.etc.brarea": {"sounds": [{"name":"custom/sfx/etc/brarea"}]},
+"custom.sfx.etc.brwin": {"sounds": [{"name":"custom/sfx/etc/brwin"}]},
+"custom.sfx.etc.tutorialclear": {"sounds": [{"name":"custom/sfx/etc/tutorialclear"}]},
+
 "custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.lobby": {"sounds": [{"name":"custom/bgm/lobby","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.cine": {"sounds": [{"name":"custom/bgm/cine","stream":true,"preload":true,"attenuation_distance":16384}]},
