@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "custom/songdo/holidayinn/logo_green",
-		"2": "custom/songdo/holidayinn/parksign",
-		"3": "custom/songdo/holidayinn/logo_green_text",
-		"particle": "custom/songdo/holidayinn/parksign"
+		"1": "custom/songdo/signboard/holidayinn/logo_green",
+		"2": "custom/songdo/signboard/holidayinn/parksign",
+		"3": "custom/songdo/signboard/holidayinn/logo_green_text",
+		"particle": "custom/songdo/signboard/holidayinn/parksign"
 	},
 	"elements": [
 		{

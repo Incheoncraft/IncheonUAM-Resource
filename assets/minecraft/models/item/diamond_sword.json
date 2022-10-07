@@ -4,9 +4,37 @@
 		"layer0": "item/diamond_sword"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data":1000009}, "model": "custom/songdo/holidayinn/banner" },
-		{ "predicate": {"custom_model_data":1000010}, "model": "custom/songdo/holidayinn/banner_icon" },
-		{ "predicate": {"custom_model_data":1000011}, "model": "custom/songdo/holidayinn/parksign" }
+        { "predicate": {"custom_model_data":1000001}, "model": "custom/songdo/signboard/centralpark/eng_1" },
+        { "predicate": {"custom_model_data":1000002}, "model": "custom/songdo/signboard/centralpark/eng_2_1" },
+		{ "predicate": {"custom_model_data":1000003}, "model": "custom/songdo/signboard/centralpark/eng_2_2" },
+		{ "predicate": {"custom_model_data":1000004}, "model": "custom/songdo/signboard/centralpark/eng_3" },
+		{ "predicate": {"custom_model_data":1000005}, "model": "custom/songdo/signboard/centralpark/eng_4" },
+		{ "predicate": {"custom_model_data":1000006}, "model": "custom/songdo/signboard/centralpark/korean_1" },
+		{ "predicate": {"custom_model_data":1000007}, "model": "custom/songdo/signboard/centralpark/korean_2" },
+		{ "predicate": {"custom_model_data":1000008}, "model": "custom/songdo/signboard/centralpark/korean_3" },
+		{ "predicate": {"custom_model_data":1000009}, "model": "custom/songdo/signboard/holidayinn/banner" },
+		{ "predicate": {"custom_model_data":1000010}, "model": "custom/songdo/signboard/holidayinn/banner_icon" },
+		{ "predicate": {"custom_model_data":1000011}, "model": "custom/songdo/signboard/holidayinn/parksign" },
+		{ "predicate": {"custom_model_data":1000012}, "model": "custom/songdo/signboard/lottemart" },
+		{ "predicate": {"custom_model_data":1000013}, "model": "custom/songdo/signboard/orakai/logo" },
+		{ "predicate": {"custom_model_data":1000014}, "model": "custom/songdo/signboard/orakai/hope" },
+		{ "predicate": {"custom_model_data":1000015}, "model": "custom/songdo/signboard/skypark/sculpture" },
+		{ "predicate": {"custom_model_data":1000016}, "model": "custom/songdo/signboard/skypark/logo_long" },
+		{ "predicate": {"custom_model_data":1000017}, "model": "custom/songdo/signboard/hyundai/banner_1" },
+		{ "predicate": {"custom_model_data":1000018}, "model": "custom/songdo/signboard/hyundai/banner_2" },
+		{ "predicate": {"custom_model_data":1000019}, "model": "custom/songdo/signboard/hyundai/banner_3" },
+		{ "predicate": {"custom_model_data":1000020}, "model": "custom/songdo/signboard/hyundai/banner" },
+		{ "predicate": {"custom_model_data":1000021}, "model": "custom/songdo/signboard/convensia/logo_son" },
+		{ "predicate": {"custom_model_data":1000022}, "model": "custom/songdo/signboard/convensia/logo_gdo" },
+		{ "predicate": {"custom_model_data":1000023}, "model": "custom/songdo/signboard/convensia/logo_con" },
+		{ "predicate": {"custom_model_data":1000024}, "model": "custom/songdo/signboard/convensia/logo_ven" },
+		{ "predicate": {"custom_model_data":1000025}, "model": "custom/songdo/signboard/convensia/logo_sia" },
+		{ "predicate": {"custom_model_data":1000026}, "model": "custom/songdo/signboard/convensia/logo" },
+        { "predicate": {"custom_model_data":1000027}, "model": "custom/songdo/signboard/oakwood/banner" },
+        { "predicate": {"custom_model_data":1000028}, "model": "custom/songdo/signboard/orakai/banner_1" },
+        { "predicate": {"custom_model_data":1000029}, "model": "custom/songdo/signboard/orakai/banner_2" },
+        { "predicate": {"custom_model_data":1000030}, "model": "custom/songdo/signboard/oakwood/banner_1" },
+        { "predicate": {"custom_model_data":1000031}, "model": "custom/songdo/signboard/oakwood/banner_2" }
 	
 	]
 }

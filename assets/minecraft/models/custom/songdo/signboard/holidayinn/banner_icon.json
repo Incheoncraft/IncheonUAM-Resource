@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "custom/songdo/holidayinn/logo",
-		"1": "custom/songdo/holidayinn/banner_icon",
-		"particle": "custom/songdo/holidayinn/logo"
+		"0": "custom/songdo/signboard/holidayinn/logo",
+		"1": "custom/songdo/signboard/holidayinn/banner_icon",
+		"particle": "custom/songdo/signboard/holidayinn/logo"
 	},
 	"elements": [
 		{
