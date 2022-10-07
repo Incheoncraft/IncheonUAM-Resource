@@ -360,10 +360,15 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [27, 139, -20],
+			"translation": [-0.25, -3.5, 0],
+			"scale": [0.72, 0.72, 0.72]
+		},
 		"head": {
-			"rotation": [0, 0, -32.75],
-			"translation": [0.75, -8, 1.25],
-			"scale": [2, 2, 2]
+			"rotation": [0, 0, -22],
+			"translation": [1.75, 9.5, 1.25],
+			"scale": [1.65, 1.65, 1.65]
 		}
 	},
 	"groups": [
