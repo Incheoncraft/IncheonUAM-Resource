@@ -20,9 +20,19 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 180],
+			"translation": [1.5, 1.25, 8]
+		},
+		"gui": {
+			"translation": [-1, 0.25, 0]
+		},
 		"head": {
-			"translation": [-0.75, -2.75, -1],
+			"translation": [-0.75, -4, -1],
 			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"translation": [-1, 0, 7.75]
 		}
 	}
 }
