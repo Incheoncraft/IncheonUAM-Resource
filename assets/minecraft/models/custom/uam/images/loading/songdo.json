@@ -1,5 +1,5 @@
 {
-	"parent": "custom/uam/images/2560x1440",
+	"parent": "custom/uam/images/1920x1080",
 	"textures": {
 		"0": "custom/uam/images/songdo",
 		"particle": "custom/uam/images/songdo"

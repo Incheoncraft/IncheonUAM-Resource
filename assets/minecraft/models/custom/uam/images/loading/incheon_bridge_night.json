@@ -1,7 +1,0 @@
-{
-	"parent": "custom/uam/images/3840x2160",
-	"textures": {
-		"0": "custom/uam/images/incheon_bridge_night",
-		"particle": "custom/uam/images/incheon_bridge_night"
-	}
-}

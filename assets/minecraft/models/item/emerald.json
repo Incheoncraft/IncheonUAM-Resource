@@ -98,9 +98,9 @@
 
 		{ "predicate": {"custom_model_data":2000100}, "model": "custom/uam/ui/extra/left_and_right"},
 		
-		{ "predicate": {"custom_model_data":3000001}, "model": "custom/uam/images/loading/central_park"},
-		{ "predicate": {"custom_model_data":3000002}, "model": "custom/uam/images/loading/songdo"},
-		{ "predicate": {"custom_model_data":3000003}, "model": "custom/uam/images/loading/incheon_bridge_night"}
+		{ "predicate": {"custom_model_data":3000001}, "model": "custom/uam/images/loading/cheongra"},
+		{ "predicate": {"custom_model_data":3000002}, "model": "custom/uam/images/loading/kernelwalk"},
+		{ "predicate": {"custom_model_data":3000003}, "model": "custom/uam/images/loading/songdo"}
 
 
     ]  

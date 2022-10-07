@@ -1,8 +1,0 @@
-{
-	"parent": "custom/uam/images/1920x1080",
-	"texture_size": [2048, 2048],
-	"textures": {
-		"0": "custom/uam/images/central_park",
-		"particle": "custom/uam/images/central_park"
-	}
-}
