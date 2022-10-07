@@ -426,12 +426,17 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [72.99, -0.03, 179.09],
-			"translation": [0, -4.25, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, -4.25, -1],
+			"scale": [0.36, 0.36, 0.36]
+		},
+		"gui": {
+			"rotation": [19, 137, 0],
+			"translation": [0, -2, 0],
+			"scale": [0.51, 0.51, 0.51]
 		},
 		"head": {
 			"rotation": [17.75, 0, 0],
-			"translation": [0, -2.25, -1.5],
+			"translation": [0, -2.5, -1.5],
 			"scale": [1.1, 1.1, 1.1]
 		}
 	},

@@ -358,8 +358,18 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, -2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [25, -35, 1],
+			"translation": [1.75, -6.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
 		"head": {
-			"translation": [1.5, 0, -4.5]
+			"translation": [1.67, -0.25, -4.5],
+			"scale": [1.1, 1.1, 1.1]
 		}
 	},
 	"groups": [

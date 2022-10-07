@@ -441,6 +441,15 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -3],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"gui": {
+			"rotation": [25, -46, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
 		"head": {
 			"rotation": [13.5, 0, 0],
 			"translation": [0, 12.5, 2.25],
