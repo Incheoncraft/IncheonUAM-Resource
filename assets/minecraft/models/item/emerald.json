@@ -16,6 +16,8 @@
 		
 		{ "predicate": {"custom_model_data":2000}, "model": "custom/uam/game/enemy/airobot"},
 		{ "predicate": {"custom_model_data":2001}, "model": "custom/uam/game/enemy/airobot_damaged"},
+		{ "predicate": {"custom_model_data":2010}, "model": "custom/uam/game/enemy/airobot2"},
+		{ "predicate": {"custom_model_data":2011}, "model": "custom/uam/game/enemy/airobot2_damaged"},
 
 		{ "predicate": {"custom_model_data":10010}, "model": "custom/uam/equipment/helmet/battle_royal/low"},
 		{ "predicate": {"custom_model_data":10020}, "model": "custom/uam/equipment/helmet/battle_royal/high"},
