@@ -36,6 +36,8 @@
 "custom.sfx.etc.brarea": {"sounds": [{"name":"custom/sfx/etc/brarea"}]},
 "custom.sfx.etc.brwin": {"sounds": [{"name":"custom/sfx/etc/brwin"}]},
 "custom.sfx.etc.tutorialclear": {"sounds": [{"name":"custom/sfx/etc/tutorialclear"}]},
+"custom.sfx.etc.questaccept": {"sounds": [{"name":"custom/sfx/etc/questaccept"}]},
+"custom.sfx.etc.questclear": {"sounds": [{"name":"custom/sfx/etc/questclear"}]},
 
 "custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.lobby": {"sounds": [{"name":"custom/bgm/lobby","stream":true,"preload":true,"attenuation_distance":16384}]},
