@@ -38,6 +38,7 @@
 "custom.sfx.etc.tutorialclear": {"sounds": [{"name":"custom/sfx/etc/tutorialclear"}]},
 "custom.sfx.etc.questaccept": {"sounds": [{"name":"custom/sfx/etc/questaccept"}]},
 "custom.sfx.etc.questclear": {"sounds": [{"name":"custom/sfx/etc/questclear"}]},
+"custom.sfx.etc.gameover": {"sounds": [{"name":"custom/sfx/etc/gameover"}]},
 
 "custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.lobby": {"sounds": [{"name":"custom/bgm/lobby","stream":true,"preload":true,"attenuation_distance":16384}]},
