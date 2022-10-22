@@ -44,6 +44,7 @@
 "custom.bgm.tdm": {"sounds": [{"name":"custom/bgm/tdm","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.lobby": {"sounds": [{"name":"custom/bgm/lobby","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.cine": {"sounds": [{"name":"custom/bgm/cine","stream":true,"preload":true,"attenuation_distance":16384}]},
+"custom.bgm.cine2": {"sounds": [{"name":"custom/bgm/cine2","stream":true,"preload":true,"attenuation_distance":16384}]},
 "custom.bgm.tutorial": {"sounds": [{"name":"custom/bgm/tutorial","stream":true,"preload":true,"attenuation_distance":16384}]}
 
 }
