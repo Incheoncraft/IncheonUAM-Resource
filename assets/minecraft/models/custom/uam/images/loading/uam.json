@@ -1,0 +1,7 @@
+{
+	"parent": "custom/uam/images/1920x1080",
+	"textures": {
+		"0": "custom/uam/images/uam",
+		"particle": "custom/uam/images/uam"
+	}
+}
