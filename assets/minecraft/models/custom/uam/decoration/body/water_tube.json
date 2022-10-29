@@ -281,8 +281,13 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [21, 139, 0],
+			"translation": [1, 0, 0],
+			"scale": [0.56, 0.56, 0.56]
+		},
 		"head": {
-			"translation": [-2.25, -17.25, -0.75]
+			"translation": [-2.25, -48.5, -0.75]
 		}
 	},
 	"groups": [
