@@ -16,6 +16,7 @@
         {"type":"bitmap","file":"minecraft:font/battleroyal_human.png","ascent":7,"height":16,"chars":["\u0022\u0023"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/game/tdm_score.png","ascent":8,"height":32,"chars":["\u0030","\u0031"]},
+        {"type":"bitmap","file":"minecraft:font/ui/game/short_tdm_setscore.png","ascent":-8,"height":5,"chars":["\u0032\u0033\u0034"]},
 
         {"type":"bitmap","file":"minecraft:font/ui/game/ctf_time.png","ascent":0,"height":32,"chars":["\u0040"]},
         {"type":"bitmap","file":"minecraft:font/ui/game/ctf_bar.png","ascent":0,"height":32,"chars":["\u0041","\u0042","\u0043"]},
@@ -126,6 +127,7 @@
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/maintenance_6.png",          "ascent":13,"height":256,"chars":["\u4015"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/my_info.png",                "ascent":31,"height":256,"chars":["\u4020"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/achievement.png",            "ascent":13,"height":256,"chars":["\u4021"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/short_tdm_loadout.png",      "ascent":13,"height":256,"chars":["\u4022"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_1.png",                "ascent":-22,"height": 90,"chars":["\u4031"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_2.png",                "ascent":-22,"height": 90,"chars":["\u4032"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_3.png",                "ascent":-22,"height": 90,"chars":["\u4033"]},
