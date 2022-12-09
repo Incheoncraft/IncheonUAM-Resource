@@ -128,9 +128,10 @@
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/my_info.png",                "ascent":31,"height":256,"chars":["\u4020"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/achievement.png",            "ascent":13,"height":256,"chars":["\u4021"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/short_tdm_loadout.png",      "ascent":13,"height":256,"chars":["\u4022"]},
-        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_1.png",                "ascent":-22,"height": 90,"chars":["\u4031"]},
-        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_2.png",                "ascent":-22,"height": 90,"chars":["\u4032"]},
-        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_3.png",                "ascent":-22,"height": 90,"chars":["\u4033"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_1.png",                "ascent":-22,"height": 45,"chars":["\u4031"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_2.png",                "ascent":-22,"height": 45,"chars":["\u4032"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_3.png",                "ascent":-67,"height": 45,"chars":["\u4033"]},
+        {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_4.png",                "ascent":-67,"height": 45,"chars":["\u4034"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/multi_random.png",           "ascent":-4,"height": 18,"chars":["\u4040","\u4041"]},
         {"type":"bitmap","file":"minecraft:custom/uam/ui/inventory/general.png",            "ascent":13,"height":256,"chars":["\u4FFF"]},
 

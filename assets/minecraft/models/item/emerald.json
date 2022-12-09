@@ -103,7 +103,8 @@
 		{ "predicate": {"custom_model_data":3000001}, "model": "custom/uam/images/loading/cheongra"},
 		{ "predicate": {"custom_model_data":3000002}, "model": "custom/uam/images/loading/kernelwalk"},
 		{ "predicate": {"custom_model_data":3000003}, "model": "custom/uam/images/loading/songdo"},
-		{ "predicate": {"custom_model_data":3000004}, "model": "custom/uam/images/loading/uam"}
+		{ "predicate": {"custom_model_data":3000004}, "model": "custom/uam/images/loading/uam"},
+		{ "predicate": {"custom_model_data":3000005}, "model": "custom/uam/images/loading/uam_arena"}
 
 
     ]  
