@@ -1,0 +1,115 @@
+{
+	"credit": "옵티머스",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom:item/drone_controller",
+		"particle": "custom:item/drone_controller"
+	},
+	"elements": [
+		{
+			"name": "drone_controller",
+			"from": [2, 7, 5],
+			"to": [14, 10, 13],
+			"faces": {
+				"north": {"uv": [2, 2, 5, 2.75], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 2.75], "texture": "#0"},
+				"south": {"uv": [7, 2, 10, 2.75], "texture": "#0"},
+				"west": {"uv": [5, 2, 7, 2.75], "texture": "#0"},
+				"up": {"uv": [5, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "drone_controller",
+			"from": [8, 9, 13],
+			"to": [11, 9, 18],
+			"faces": {
+				"north": {"uv": [8, 2, 8.75, 2], "texture": "#0"},
+				"east": {"uv": [6.75, 2, 8, 2], "texture": "#0"},
+				"south": {"uv": [10, 2, 10.75, 2], "texture": "#0"},
+				"west": {"uv": [8.75, 2, 10, 2], "texture": "#0"},
+				"up": {"uv": [8.75, 2, 8, 0.75], "texture": "#0"},
+				"down": {"uv": [9.5, 0.75, 8.75, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "drone_controller",
+			"from": [6, 7, 4],
+			"to": [10, 10, 5],
+			"faces": {
+				"north": {"uv": [10.25, 2, 11.25, 2.75], "texture": "#0"},
+				"east": {"uv": [10, 2, 10.25, 2.75], "texture": "#0"},
+				"south": {"uv": [11.5, 2, 12.5, 2.75], "texture": "#0"},
+				"west": {"uv": [11.25, 2, 11.5, 2.75], "texture": "#0"},
+				"up": {"uv": [11.25, 2, 10.25, 1.75], "texture": "#0"},
+				"down": {"uv": [12.25, 1.75, 11.25, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "drone_controller",
+			"from": [11, 7, 2],
+			"to": [14, 10, 5],
+			"faces": {
+				"north": {"uv": [0.75, 3.5, 1.5, 4.25], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 0.75, 4.25], "texture": "#0"},
+				"south": {"uv": [2.25, 3.5, 3, 4.25], "texture": "#0"},
+				"west": {"uv": [1.5, 3.5, 2.25, 4.25], "texture": "#0"},
+				"up": {"uv": [1.5, 3.5, 0.75, 2.75], "texture": "#0"},
+				"down": {"uv": [2.25, 2.75, 1.5, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "drone_controller",
+			"from": [2, 7, 2],
+			"to": [5, 10, 5],
+			"faces": {
+				"north": {"uv": [3.75, 3.5, 4.5, 4.25], "texture": "#0"},
+				"east": {"uv": [3, 3.5, 3.75, 4.25], "texture": "#0"},
+				"south": {"uv": [5.25, 3.5, 6, 4.25], "texture": "#0"},
+				"west": {"uv": [4.5, 3.5, 5.25, 4.25], "texture": "#0"},
+				"up": {"uv": [4.5, 3.5, 3.75, 2.75], "texture": "#0"},
+				"down": {"uv": [5.25, 2.75, 4.5, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, -180],
+			"translation": [-6, 4, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, -180],
+			"translation": [-6, 4, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [25, -180, 0],
+			"translation": [-9, 0, -7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [25, -180, 0],
+			"translation": [-9, 0, -7]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.92, 0.92, 0.92]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "drone_controller",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
