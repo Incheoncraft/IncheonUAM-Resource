@@ -1,0 +1,35 @@
+{
+	"credit": "iMasterProX",
+	"parent": "minecraft:block/cube_column",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "minecraft:block/verdant_froglight",
+		"particle": "minecraft:block/verdant_froglight"
+	},
+	"elements": [
+		{
+			"from": [0, 3, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 8, 8, 10], "texture": "#0"},
+				"east": {"uv": [8, 4, 12, 6], "texture": "#0"},
+				"south": {"uv": [8, 6, 12, 8], "texture": "#0"},
+				"west": {"uv": [8, 8, 12, 10], "texture": "#0"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [4, 10, 12, 10.75], "texture": "#0"},
+				"east": {"uv": [4, 11.5, 8, 12.25], "texture": "#0"},
+				"south": {"uv": [4, 10.75, 12, 11.5], "texture": "#0"},
+				"west": {"uv": [8, 11.5, 12, 12.25], "texture": "#0"},
+				"up": {"uv": [8, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 4, 0, 8], "texture": "#0"}
+			}
+		}
+	]
+}
