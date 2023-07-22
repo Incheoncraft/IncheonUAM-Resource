@@ -79,6 +79,13 @@
 		{ "predicate": {"custom_model_data":820}, "model": "custom/uam/office/in_ro_2"},
 		{ "predicate": {"custom_model_data":830}, "model": "custom/uam/office/in_ro_3"},
 		{ "predicate": {"custom_model_data":840}, "model": "custom/uam/office/in_ro_4"},
-		{ "predicate": {"custom_model_data":850}, "model": "custom/uam/office/in_ro_5"}
+		{ "predicate": {"custom_model_data":850}, "model": "custom/uam/office/in_ro_5"},
+		{ "predicate": {"custom_model_data":860}, "model": "custom/uam/office/painting_earpod"},
+		{ "predicate": {"custom_model_data":870}, "model": "custom/uam/office/painting_lib"},
+		{ "predicate": {"custom_model_data":880}, "model": "custom/uam/office/painting_mo"},
+		{ "predicate": {"custom_model_data":890}, "model": "custom/uam/office/painting_ts"},
+		{ "predicate": {"custom_model_data":900}, "model": "custom/uam/office/painting_van"},
+		{ "predicate": {"custom_model_data":910}, "model": "custom/uam/office/kore_desk"},
+		{ "predicate": {"custom_model_data":920}, "model": "custom/uam/office/office_trophy2"}
 	]
 }
