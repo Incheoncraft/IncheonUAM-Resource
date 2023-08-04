@@ -1,0 +1,41 @@
+{
+	"credit": "iMasterProX",
+	"texture_size": [512, 512],
+	"textures": {
+		"1": "custom/uam/office/neon_font"
+	},
+	"elements": [
+		{
+			"from": [5.675, 16.75, 7.5],
+			"to": [10.275, 31.25, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.71875, 11.725, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 10.40625, 4.8125, 11.9375], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [4.8125, 10.40625, 0, 11.9375], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.725, 16.75, 8.5],
+			"to": [10.325, 31.25, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.625, 42.19083, 9.05]},
+			"faces": {
+				"north": {"uv": [0, 11.9375, 4.8125, 13.46875], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [4.8125, 10.40625, 0, 11.9375], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0, -77, 16],
+			"scale": [4, 4, 4]
+		}
+	}
+}
